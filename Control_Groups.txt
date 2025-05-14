@@ -1,0 +1,12 @@
+1. Enable PIDs Control Groups to Limit and Account for Container Resource Usage
+Control groups (cgroups) is a Linux kernel feature that limits, accounts for, and isolates resource
+usage (central processing unit (CPU), memory, disk I/O, network, etc.) of a container. By
+implementing cgroups, each container is guaranteed a share of the resources, but more
+importantly, it guarantees that a single container does not bring the container platform down by
+exhausting resources.
+2.  The Container Should Have Resource Limits Set
+The resource limit setting for a container provides a limit or maximum amount of resources a
+container can consume. Without this limit, a container can use all available resources, starving
+other containers of needed resources, causing a Denial of Service (DoS) across all the services
+executing within the container platform.
+
