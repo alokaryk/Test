@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terraform Troubleshooting Infographic</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <!-- Chosen Palette: Brilliant Blues (Primary Accent: #2563eb; Secondary: #10b981; Background: #f8fafc) -->
+    <!-- Application Structure Plan: A vertical, chronological timeline structure is used to present the troubleshooting narrative (P1-P8) in logical phases. This design prioritizes the sequential story of failure and resolution. A sticky navigation column provides quick access to phases. Key information is delivered via expandable cards (progressive disclosure) to prevent cognitive overload. -->
+    <!-- Visualization & Content Choices: 
+        - Report Info: Problem Distribution (3/3/2) -> Goal: Inform composition -> Viz: Donut Chart -> Interaction: Hover Tooltip -> Justification: Clearly shows the proportional effort spent on each phase of error type. -> Library/Method: Chart.js (Canvas).
+        - Report Info: Individual Problems (P1-P8) -> Goal: Organize and detail issues -> Viz: Expandable Cards -> Interaction: Click to expand/collapse -> Justification: Hides technical complexity by default, guiding the user's focus. -> Library/Method: HTML/CSS/JS.
+        - Report Info: Solution Flow (Sequential Deployment) -> Goal: Organize/Explain Process -> Viz: Simple Flow Diagram -> Interaction: None -> Justification: Visually clarifies the non-parallel deployment dependency chain better than text. -> Library/Method: Structured HTML/CSS.
+    -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #f8fafc; }
+        .timeline-line { position: absolute; left: 1.2rem; top: 0; bottom: 0; width: 2px; background-color: #bfdbfe; z-index: 0; }
+        .timeline-item-dot { background-color: #2563eb; }
+        .problem-card-content { transition: max-height 0.5s ease-in-out, padding 0.5s ease-in-out; max-height: 0; overflow: hidden; }
+        .problem-card.open .problem-card-content { max-height: 1200px; padding-bottom: 1.5rem; }
+        .problem-card.open .icon-plus { display: none; }
+        .problem-card:not(.open) .icon-minus { display: none; }
+        .nav-link.active { color: #2563eb; font-weight: 700; border-left: 3px solid #2563eb; padding-left: 0.75rem; }
+        .chart-container { 
+            width: 100%; max-width: 400px; margin-left: auto; margin-right: auto; height: 350px; max-height: 400px; 
+            position: relative; /* Essential for tooltips */
+        }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <div class="container mx-auto px-4 py-8 md:py-16 max-w-7xl">
+        <header class="text-center mb-12 md:mb-20">
+            <h1 class="text-4xl md:text-6xl font-extrabold text-gray-900 mb-4 tracking-tight">Terraform Troubleshooting Post-Mortem</h1>
+            <p class="text-xl text-gray-600 max-w-4xl mx-auto">A deep dive into the 8 critical issues encountered while deploying a 7-node Kubernetes cluster on Proxmox VE 8.4.0, structured by problem phase.</p>
+            <div class="mt-8 flex justify-center space-x-6">
+                <span class="inline-flex items-center gap-2 bg-emerald-100 text-emerald-800 font-semibold px-4 py-2 rounded-lg shadow-sm">
+                    <span>Cluster Status:</span> <strong>RESOLVED</strong>
+                </span>
+                <span class="inline-flex items-center gap-2 bg-blue-100 text-blue-800 font-semibold px-4 py-2 rounded-lg shadow-sm">
+                    <span>Target Platform:</span> <strong>Proxmox VE 8.4.0</strong>
+                </span>
+            </div>
+        </header>
+
+        <div class="md:grid md:grid-cols-12 md:gap-12">
+            
+            <aside class="hidden md:block md:col-span-3">
+                <div class="sticky top-10 pt-4">
+                    <h3 class="font-bold text-lg text-gray-900 mb-4">Error Distribution & Flow</h3>
+                    
+                    <div class="bg-white p-4 rounded-lg shadow-md mb-8">
+                        <h4 class="text-sm font-semibold mb-2 text-gray-700">Problems by Phase (Total: 8)</h4>
+                        <div class="chart-container">
+                            <canvas id="errorDistributionChart"></canvas>
+                        </div>
+                    </div>
+
+                    <h3 class="font-bold text-lg text-gray-900 mb-4">Navigation</h3>
+                    <ul class="space-y-3">
+                        <li><a href="#phase-1" class="nav-link text-gray-600 transition block py-1">1. Provider Conflicts (P1-P3)</a></li>
+                        <li><a href="#phase-2" class="nav-link text-gray-600 transition block py-1">2. HCL Syntax Errors (P4-P6)</a></li>
+                        <li><a href="#phase-3" class="nav-link text-gray-600 transition block py-1">3. Infrastructure Logic (P7-P8)</a></li>
+                        <li><a href="#flow" class="nav-link text-gray-600 transition block py-1">4. Sequential Deployment Flow</a></li>
+                    </ul>
+                </div>
+            </aside>
+
+            <main class="md:col-span-9">
+                <section id="phase-1" class="timeline-phase scroll-mt-12 mb-12">
+                    <div class="relative pl-12">
+                        <div class="timeline-line"></div>
+                        <div class="absolute left-0 top-0 flex items-center justify-center w-10 h-10 timeline-item-dot text-white font-bold rounded-full z-10">1</div>
+                        <h2 class="text-3xl font-bold text-gray-900 mb-4 tracking-tight pt-1">Phase 1: Provider Conflicts</h2>
+                        <p class="text-gray-600 mb-8">This phase captured fundamental issues related to selecting a stable and correctly referenced Terraform provider, a common challenge when working outside major cloud ecosystems.</p>
+                        <div id="phase-1-problems" class="space-y-6"></div>
+                    </div>
+                </section>
+
+                <section id="phase-2" class="timeline-phase scroll-mt-12 mb-12">
+                    <div class="relative pl-12">
+                         <div class="timeline-line"></div>
+                        <div class="absolute left-0 top-0 flex items-center justify-center w-10 h-10 timeline-item-dot text-white font-bold rounded-full z-10">2</div>
+                        <h2 class="text-3xl font-bold text-gray-900 mb-4 tracking-tight pt-1">Phase 2: Configuration Syntax Errors</h2>
+                        <p class="text-gray-600 mb-8">After securing a provider, numerous configuration attempts failed due to the strict HCL parsing rules of the `bpg/proxmox` provider, which rejected common legacy and simplified syntax patterns.</p>
+                        <div id="phase-2-problems" class="space-y-6"></div>
+                    </div>
+                </section>
+
+                <section id="phase-3" class="timeline-phase scroll-mt-12 mb-12">
+                     <div class="relative pl-12">
+                        <div class="timeline-line"></div>
+                        <div class="absolute left-0 top-0 flex items-center justify-center w-10 h-10 timeline-item-dot text-white font-bold rounded-full z-10">3</div>
+                        <h2 class="text-3xl font-bold text-gray-900 mb-4 tracking-tight pt-1">Phase 3: Infrastructure Logic</h2>
+                        <p class="text-gray-600 mb-8">The final phase addressed deployment stability and the logic required to execute remote provisioning commands successfully through the Bastion Host.</p>
+                        <div id="phase-3-problems" class="space-y-6"></div>
+                    </div>
+                </section>
+
+                <section id="flow" class="scroll-mt-12">
+                    <h2 class="text-3xl font-bold text-gray-900 mb-4 tracking-tight">Sequential Deployment Flow (P7 Resolution)</h2>
+                    <p class="text-gray-600 mb-8">To overcome the crippling API timeout caused by simultaneous VM cloning (P7), the deployment was strictly sequenced using explicit `depends_on` links. This ensures Proxmox handles the load one VM at a time.</p>
+                    <div class="bg-white p-6 rounded-lg shadow-xl border border-blue-200">
+                        <div class="flex flex-col space-y-4">
+                            <div class="flow-step bg-blue-50 p-3 rounded-lg flex items-center gap-4 border border-blue-200">
+                                <span class="text-2xl text-blue-600">①</span>
+                                <div><strong class="text-blue-900">Bastion Host (VMID 401)</strong></div>
+                            </div>
+                            <div class="flex justify-center text-blue-400">↓</div>
+                            <div class="flow-step bg-blue-100 p-3 rounded-lg flex items-center gap-4 border border-blue-300">
+                                <span class="text-2xl text-blue-600">②</span>
+                                <div><strong class="text-blue-900">Control Plane Deployment (C01 → C02 → C03)</strong><p class="text-sm text-blue-700">VMs created sequentially to mitigate I/O timeout risk.</p></div>
+                            </div>
+                            <div class="flex justify-center text-blue-400">↓</div>
+                            <div class="flow-step bg-blue-200 p-3 rounded-lg flex items-center gap-4 border border-blue-400">
+                                <span class="text-2xl text-blue-600">③</span>
+                                <div><strong class="text-blue-900">Worker Node Deployment (W01 → W02 → W03)</strong><p class="text-sm text-blue-700">VMs created sequentially, dependent on Control Plane finalization.</p></div>
+                            </div>
+                             <div class="flex justify-center text-blue-400">↓</div>
+                            <div class="flow-step bg-emerald-100 p-3 rounded-lg flex items-center gap-4 border border-emerald-300">
+                                <span class="text-2xl text-emerald-600">④</span>
+                                <div><strong class="text-emerald-900">Kubeadm Init & Node Join</strong><p class="text-sm text-emerald-700">Provisioning runs only after all 7 VMs are successfully cloned.</p></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+
+    <script>
+        const problems = [
+            { id: 'P1', phase: 1, title: 'Deprecated Provider', symptom: 'Config used `source = "telmate/proxmox"` which is deprecated.', cause: 'The `telmate/proxmox` provider is incompatible with modern Proxmox (8.x) and its required nested block syntax.', resolution: 'Switched to the actively maintained community provider, **`bpg/proxmox`**.' },
+            { id: 'P2', phase: 1, title: 'Registry Lookup Failure', symptom: '`Error: Failed to query available provider packages` for `bpg/proxmoxve`.', cause: 'The specific provider alias `bpg/proxmoxve` was retired or renamed. Local cache corruption from previous failed attempts.', resolution: 'Cleared the local Terraform cache and corrected the source name to the active alias: **`bpg/proxmox`**.' },
+            { id: 'P3', phase: 1, title: 'Provider Argument Naming', symptom: '`Error: Unsupported argument` on `pm_api_url`, `pm_user`, etc.', cause: 'The new `bpg/proxmox` provider uses modern argument names (`endpoint`, `username`), while the configuration used legacy prefixes from the `telmate` provider.', resolution: 'Updated the `provider "proxmox"` block to use the correct modern attribute names.' },
+            { id: 'P4', phase: 2, title: 'Cloud-Init Block Structure', symptom: '`Error: Unsupported block type` on `initialization`, `ipconfig`, etc.', cause: 'The provider requires a specific, multi-layered nesting for Cloud-Init settings, rejecting both flat and simplified modern structures.', resolution: 'Enforced the fully correct, multi-line nested block structure: `initialization { user_account { ... } ip_config { ipv4 { ... } } }`.' },
+            { id: 'P5', phase: 2, title: 'Inline HCL Syntax', symptom: '`Error: Invalid character` (on `;`) and `Argument definition required`.', cause: 'Attempted to use compressed, single-line HCL blocks (e.g., `cpu { cores = 1; type = "host" }`), which is invalid syntax for this provider.', resolution: 'Manually expanded all single-line blocks into the standard, verbose multi-line HCL format.' },
+            { id: 'P6', phase: 2, title: 'VM Resource Naming', symptom: '`Error: Invalid resource type` on `proxmox_vm_qemu`.', cause: 'The final selected provider (`bpg/proxmox`) uses a different, more descriptive resource name for QEMU virtual machines.', resolution: 'Changed all VM resource types to the correct name: **`proxmox_virtual_environment_vm`**.' },
+            { id: 'P7', phase: 3, title: 'API Connection Timeout', symptom: '`Error: error waiting for VM clone: ... received an HTTP 596 response - Reason: Connection timed out`.', cause: 'Proxmox experienced high I/O load attempting to clone 7 large VMs simultaneously, causing the API request from Terraform to time out.', resolution: 'Implemented a **sequential deployment strategy** by defining each VM in a separate resource block linked with `depends_on` clauses.' },
+            { id: 'P8', phase: 3, title: 'Provisioner Logic', symptom: '`Error: Unsupported argument` on `proxy_command` and `only_if`.', cause: 'Provisioning blocks were incorrectly placed, and the `null_resource` used an invalid connection syntax for a jump host.', resolution: 'Moved all provisioning logic into dedicated `null_resource` blocks and updated `connection` blocks to use the correct modern arguments: `bastion_host` and `bastion_user`.' }
+        ];
+
+        function createProblemCard(problem) {
+            const card = document.createElement('div');
+            card.className = 'problem-card bg-white rounded-lg shadow-md border border-slate-200';
+            card.innerHTML = `
+                <div class="problem-card-header flex justify-between items-center p-4 cursor-pointer hover:bg-slate-50">
+                    <div class="flex items-center gap-3">
+                        <span class="flex-shrink-0 flex items-center justify-center w-8 h-8 bg-blue-100 text-blue-600 font-bold rounded-md text-sm">${problem.id}</span>
+                        <h4 class="font-semibold text-gray-900">${problem.title}</h4>
+                    </div>
+                    <div class="text-slate-400">
+                        <span class="icon-plus">＋</span>
+                        <span class="icon-minus font-bold">－</span>
+                    </div>
+                </div>
+                <div class="problem-card-content px-4">
+                    <div class="py-4 border-t border-slate-200 grid sm:grid-cols-3 gap-6">
+                        <div>
+                            <h5 class="font-semibold text-sm text-gray-500 mb-2">Symptom & Error</h5>
+                            <pre class="bg-slate-50 p-3 rounded-md text-xs text-red-700 whitespace-pre-wrap font-mono"><code>${problem.symptom}</code></pre>
+                        </div>
+                        <div>
+                            <h5 class="font-semibold text-sm text-gray-500 mb-2">Root Cause</h5>
+                            <p class="text-sm text-gray-600">${problem.cause}</p>
+                        </div>
+                        <div>
+                            <h5 class="font-semibold text-sm text-gray-500 mb-2">Resolution</h5>
+                            <p class="text-sm text-emerald-800 bg-emerald-50 p-3 rounded-md">${problem.resolution}</p>
+                        </div>
+                    </div>
+                </div>
+            `;
+            return card;
+        }
+
+        function wrapLabel(label) {
+            if (label.length <= 16) return label;
+            const words = label.split(' ');
+            let lines = [];
+            let currentLine = '';
+            words.forEach(word => {
+                if ((currentLine + word).length > 16 && currentLine !== '') {
+                    lines.push(currentLine.trim());
+                    currentLine = word + ' ';
+                } else {
+                    currentLine += word + ' ';
+                }
+            });
+            if (currentLine) lines.push(currentLine.trim());
+            return lines;
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const phase1Container = document.getElementById('phase-1-problems');
+            const phase2Container = document.getElementById('phase-2-problems');
+            const phase3Container = document.getElementById('phase-3-problems');
+
+            problems.forEach(p => {
+                const card = createProblemCard(p);
+                if (p.phase === 1) phase1Container.appendChild(card);
+                if (p.phase === 2) phase2Container.appendChild(card);
+                if (p.phase === 3) phase3Container.appendChild(card);
+            });
+            
+            document.querySelector('main').addEventListener('click', (e) => {
+                const header = e.target.closest('.problem-card-header');
+                if (header) {
+                    header.parentElement.classList.toggle('open');
+                }
+            });
+
+            const navLinks = document.querySelectorAll('.nav-link');
+            const sections = document.querySelectorAll('section');
+
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        navLinks.forEach(link => {
+                            link.classList.toggle('active', link.getAttribute('href').substring(1) === entry.target.id);
+                        });
+                    }
+                });
+            }, { rootMargin: "-40% 0px -60% 0px" });
+
+            sections.forEach(section => {
+                observer.observe(section);
+            });
+
+            // CHART.JS Implementation
+            const dataDistribution = {
+                labels: ['Provider Conflicts', 'Configuration Syntax', 'Infrastructure Logic'],
+                datasets: [{
+                    data: [3, 3, 2],
+                    backgroundColor: ['#2563eb', '#3b82f6', '#10b981'],
+                    hoverOffset: 8,
+                }]
+            };
+
+            const ctx = document.getElementById('errorDistributionChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'doughnut',
+                data: dataDistribution,
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                color: '#1f2937',
+                                font: {
+                                    size: 11,
+                                    family: 'Inter'
+                                },
+                                // Apply required label wrapping logic
+                                generateLabels: (chart) => {
+                                    const labels = Chart.defaults.plugins.legend.labels.generateLabels(chart);
+                                    labels.forEach((label, index) => {
+                                        label.text = wrapLabel(dataDistribution.labels[index]).join(' '); // Join back for legend display
+                                    });
+                                    return labels;
+                                }
+                            }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                title: function(tooltipItems) {
+                                    // Required Tooltip Configuration: Handles multi-line labels
+                                    const item = tooltipItems[0];
+                                    let label = item.chart.data.labels[item.dataIndex];
+                                    if (Array.isArray(label)) {
+                                        return label.join(' ');
+                                    } else {
+                                        return label;
+                                    }
+                                },
+                                label: function(context) {
+                                    let label = context.label || '';
+                                    if (label) {
+                                        if (Array.isArray(label)) {
+                                            label = label.join(' ');
+                                        }
+                                        label += ': ';
+                                    }
+                                    if (context.parsed !== null) {
+                                        label += context.parsed + ' problems';
+                                    }
+                                    return label;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
