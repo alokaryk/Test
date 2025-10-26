@@ -8,6 +8,7 @@ This is how Non Coders can build an Impressive GitHub profile for Jobs. = https:
 Free 100 Day of DevOps Practical Learning | Easy way to crack DevOps Interviews = https://www.youtube.com/watch?v=BEHbPPz8Emk
 Terraform + Ansible End to End Demo | Best way to use Terraform + Ansible in Realtime https://www.youtube.com/watch?v=DQUUi87AEtM&t=1122s
 https://docs.ansible.com/ansible/latest/command_guide/intro_adhoc.html [Ansible community Documentation]
+https://www.brajrasik.org/hi/articles/59bc26cf59e8c72a534d85be/sahaj-subhav-paryo-naval-kishori-ju-ko-pad-by-shri-dhruv-das
 
 
 
