@@ -1338,3 +1338,13 @@ Version 19.27.0.0.0
 </div>
 <p data-start="2264" data-end="2304">Run it <strong data-start="2271" data-end="2282">3 times</strong>, then check DR again.</p>
 <!-- Comments are visible in the HTML source only -->
+
+Troubleshooting MRP0 Issues:
+If MRP0 is STOPPED or FAILED:
+
+-- Start MRP0 (Real-Time Apply)
+ALTER DATABASE RECOVER MANAGED STANDBY DATABASE DISCONNECT FROM SESSION;
+ALTER DATABASE RECOVER MANAGED STANDBY DATABASE USING CURRENT LOGFILE DISCONNECT FROM SESSION;
+
+-- Check errors
+SELECT message FROM v$dataguard_status WHERE timestamp > SYSDATE - 1/24;
