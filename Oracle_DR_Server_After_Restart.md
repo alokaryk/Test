@@ -49,3 +49,8 @@
 </div>
 </div>
 <!-- Comments are visible in the HTML source only -->
+
+[grid@erpproddb1-dr ~]$ asmcmd du /DATA/PRODCDB_DR/ARCHIVELOG/
+Used_MB      Mirror_used_MB
+ 221228              221228
+
