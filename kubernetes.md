@@ -79,3 +79,82 @@ sed -i <span class="hljs-string">'/swap/s/^/#/'</span> /etc/fstab
 <p data-path-to-node="17">Once <code data-path-to-node="17" data-index-in-node="5">kubectl get pods -A</code> successfully lists your running system components without a connection refusal, let me know, and we will immediately proceed with Phase 2 to mount the <code data-path-to-node="17" data-index-in-node="176">exportbackup</code> profile and trigger your application restoration test!</p>
 </div>
 <!-- Comments are visible in the HTML source only -->
+
+
+
+
+<div id="model-response-message-contentr_6019ed25fb20fe55" class="markdown markdown-main-panel enable-luminous-fast-follows enable-updated-hr-color" dir="ltr">
+<p data-path-to-node="0">apiVersion: v1<br />clusters:<br />- cluster:<br /> certificate-authority-data: LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUM2akNDQWRLZ0F3SUJBZ0lCQURBTkJna3Foa2lHOXcwQkFRc0ZBREFWTVJNd0VRWURWUVFERXdwcmRXSmwKY201bGRHVnpNQjRYRFRJMk1EWXhPVEEyTWpRek0xb1hEVE0yTURZeE5qQTJNamt6TTFvd0ZURVRNQkVHQTFVRQpBeE1LYTNWaVpYSnVaWFJsY3pDQ0FTSXdEUVlKS29aSWh2Y05BUUVCQlFBRGdnRVBBRENDQVFvQ2dnRUJBT3lhCnVONmtsVUlSYW8wMnZ4L1c2ZmtFb0RhcjhFNkN2QmNVV0F0YkhLS1dUMVNLc29FSFFucDFoQnp3RnUrRFZtaUcKUzB5QjVWa0IwVk1ZM3FxMHlCQk12ekNRY04zUDhmL2k3TkNZamZ2TVdhU0hZbUxJWHpKRHFZM1Azd1VzU2NCcgpiUTdWemN4QnNaUzBvS2Fmd3FjejlvSEJqN1NDMFliSkZnZ29RN1RXSE51YmhVWG84RzBDSnl6eEhvbWt1eGkrCkhST1J2cEthV2FZTk5Rbll6aHhERm1TQ3o2cHBxRzR2bDI2R3dVWVVwckdwdGpIK1FIc20wc20wc1M4MHNnekoKUjVKamZWcXRiN0Z0TlFnNEx5R09XRmFBM3VxN1MwL2I3dkl2UXVBRkIvUEkvRUdybjVTblRZVW1CQ0tNVzM2NApwcU1XakRFOVU0UHR4U3R6clJzQ0F3RUFBYU5GTUVNd0RnWURWUjBQQVFIL0JBUURBZ0trTUJJR0ExVWRFd0VCCi93UUlNQVlCQWY4Q0FRQXdIUVlEVlIwT0JCWUVGS0NqNzVJeFFranJUNTREdVVvYjh1MFpnelV6TUEwR0NTcUcKU0liM0RRRUJDd1VBQTRJQkFRRFNxS3NtcXFQckhHQXMwNzVZaEhTM0ZxTmhGOVB5d0tvRVptRVprdUNLUkhwdwpTK3JqNjQ4UExUQnRyc3M5UG92QXRPYzYrMyszSGJXUzFoaGxpeDI5UXd0enVMTGVzVE42YWxUbWVMczhNSDV5CmVzNlcwUnBrWndQaW5FQXRoR3lBN0dtRitrTlF6Rkd3ZVlYWDdpUzNVQnhud1BaTmYrNkgyZTFyQk1yVUQvbFcKVUlINnRqT3VoYXVTb1k2UmJvTFRsTFNLTmM0dXcya0F5RWVJSHIvL1FEZTNpcGhJemh5VGpLelZmOGJaa2VMdAo5dVpZdjNzSDMySHU1UE5xTlJZcTZjc3FUS3JWVWJqQzN6emJ5ZGtTaWlPN1I2cVpOanVhb1gxMWZhc2Q2ZlpuCkdXM251azdiVElkUWRBaElXQkNQN0xCUjFGb2tVbHZpS3lBdllnWXQKLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQo=<br /> server: https://49.50.117.30:6443<br /> name: backuptest<br />contexts:<br />- context:<br /> cluster: backuptest<br /> user: backuptest-admin<br /> name: backuptest-admin@backuptest<br />current-context: backuptest-admin@backuptest<br />kind: Config<br />preferences: {}<br />users:<br />- name: backuptest-admin<br /> user:<br /> client-certificate-data: LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURFekNDQWZ1Z0F3SUJBZ0lJS1dIWUhJLzFudEF3RFFZSktvWklodmNOQVFFTEJRQXdGVEVUTUJFR0ExVUUKQXhNS2EzVmlaWEp1WlhSbGN6QWVGdzB5TmpBMk1Ua3dOakkwTXpOYUZ3MHlOekEyTVRrd05qSTVNelJhTURReApGekFWQmdOVkJBb1REbk41YzNSbGJUcHRZWE4wWlhKek1Sa3dGd1lEVlFRREV4QnJkV0psY201bGRHVnpMV0ZrCmJXbHVNSUlCSWpBTkJna3Foa2lHOXcwQkFRRUZBQU9DQVE4QU1JSUJDZ0tDQVFFQXFid0ZiZFMrTCsxOVZDU2MKMk94M3hldmlKUVpYeW1ZZTRaTU5DWCs2d2lxVFFHSHozaTFlY3dVSkQ0anpUckdHMlVEQjZUMXU4Vy8yOElBNQo1OW5EUXRxUHFESnhBMzZCZ1AxQmJ4SUtCbjRJK25aNDJsbVA3c2RpaFNIZ2tXSEZ1Z1pzM3BNVll3b3NCdXBCCnZ3UUVhS0VIYzJMS3Y3dlRKc2NNR1FFS2M2ZU9XcEdvVEdvcEVqMEVQQ3A3VWJTTmlMaERtRW10Q2JielZxb3oKbEJkdUZMMVJjYThyNUFLTWphT2F0ZUlNRWtsRkpubGtxN1dvZ1hndlh1d2ZFZjJTNEJDV2dJdGw0WHhacytpNAovc0tEK3prdnB4TmtMOXZzS01TeE5MczJEUFBkZGordTQ4QmFyeXExcTMvWGhQYVQ1YWpNR1BsNW9OSEhvR2ozCjFLcXNOd0lEQVFBQm8wZ3dSakFPQmdOVkhROEJBZjhFQkFNQ0JhQXdFd1lEVlIwbEJBd3dDZ1lJS3dZQkJRVUgKQXdJd0h3WURWUjBqQkJnd0ZvQVVvS1B2a2pGQ1NPdFBuZ081U2h2eTdSbUROVE13RFFZSktvWklodmNOQVFFTApCUUFEZ2dFQkFFMXFyRjQ3VERFb2NvcFUvZ29oWG9jd25uSFUvbWxqcEUxamIxTkYxR3U4RHdBWCtqQkF4SHpmClJQY1d3QjJTcGEzYnlxRHRROEdIam9Vb2NJVEd6OHZxNENDNk1qTEFva3lrVkkza3V5Vjc2d3V5L0JFUStwTGYKeTR0MWs5a2JDd3FYb0p0UG1lcG9vS2luaWNNWEpPaEMzbmkwdHBkZFdmL1FqNmJtLzhlNXh3UGFYTzVUM2daYwpIMDNXcDg1L1pSdUVBM1JhQzhFWCtGK0VtWTFhbjJGbzlrdTF4QktLbms1ZlpzMC9uVGFmREFLZFM1bGRsWUlkClRBYUFSS0NyMkdCWWI1M0Z2L3dhTTRLdWZSK3dHUTU0NThKM1JYN2tmeWtpankwUmZhZGJ5bHExcVVSbEt3ZjQKOWtyMGVsTTIwMzJyY0U4YW9nY3NDU29NdVNqZFJGQT0KLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQo=<br /> client-key-data: LS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlFcFFJQkFBS0NBUUVBcWJ3RmJkUytMKzE5VkNTYzJPeDN4ZXZpSlFaWHltWWU0Wk1OQ1grNndpcVRRR0h6CjNpMWVjd1VKRDRqelRyR0cyVURCNlQxdThXLzI4SUE1NTluRFF0cVBxREp4QTM2QmdQMUJieElLQm40SStuWjQKMmxtUDdzZGloU0hna1dIRnVnWnMzcE1WWXdvc0J1cEJ2d1FFYUtFSGMyTEt2N3ZUSnNjTUdRRUtjNmVPV3BHbwpUR29wRWowRVBDcDdVYlNOaUxoRG1FbXRDYmJ6VnFvemxCZHVGTDFSY2E4cjVBS01qYU9hdGVJTUVrbEZKbmxrCnE3V29nWGd2WHV3ZkVmMlM0QkNXZ0l0bDRYeFpzK2k0L3NLRCt6a3ZweE5rTDl2c0tNU3hOTHMyRFBQZGRqK3UKNDhCYXJ5cTFxMy9YaFBhVDVhak1HUGw1b05ISG9HajMxS3FzTndJREFRQUJBb0lCQUJieStoVHdoOHA1Sk5IawpwV1JiREpLeEl3RjRpeFF0bkkxSlVhRHdLVE1waUlGUy9TTVVKVW9ONnp5emVwb3dQSmhSUGlhb0RNRU9MMmd6CkhpRXYrMHVsdTNpMVlUeGt0V1BZV2ltSFdkMm8ydFBxZ3NxYkEyLzRlMlNld1B0SEtmSE4vcGhWY0xYVVlVR0sKR051WDBuVEhHUGZMNnJmajBGZlUzOWpkb0Nra3pSRUVPZU9ta3lYL0Fxd0pMQ256aDBxb0tCT3N2TXBnMFFaegpDbFRDRzNra0plQ2xndzN5RlRmRzAyZUpMYWJwdnNoYmxTaUlKT0FXNExSenNlQi9CbGdVT0h0TVJSdEtyOC9mCm5jSUh0SnNNRjVzek5hZzJ1UERrSHZuU2x6YndDRGNrNmhneElJTnlPR2ZxeUxZSksvSWtUT0xHeWM1MWZ4WFUKTVJUWEtua0NnWUVBM0ZJNkJJdUp5S0dlSDZnSjlLNUhYYjV5S1o5UURUaXZ5ZkZuaVNGTTRBc1V2V3Rhd2NvZApNV2gyeFhXSWpjcStIYnBaYWorZEJVUFFEVDNaRnFSVGFwMU5NdWljK3FjZUdMb1liMDUwVFZVS0pJZmp2dEs2CjB2TklFNk45aDFVbTVsOWwrOWZmVkV1eit1VE1CUDR2b3UzZ01VdzZaaEcrN2duOE9yODFzbzBDZ1lFQXhUaWoKbUl3alBFZis3MXArcFZoMjFFSmIrcmUrMFlGTkdDUGhCWk5IMFdkTjFRamNZZWx4UFdSVUxVVk5TOGFtbzBZSgpWNGlTM0xuNjkvOUN3REk5VFV1c2svL001TjdLY2o5QkhkQmp2MTNvZVQ2WWR5Qmo0NkRCaGdYcDlOSC9VVEd2Cm9MS2hJSnJNREVYUTF0MkNuWTB5NitURGtRWVlKbTFrWE9mckN0TUNnWUVBMVNrZEJ1NjJaUTJ3L2ZISGlCcmgKNDFueC9FRXQ0MHpZRHlybndDNGV3WmtXL05rVUd2QmdaRUFzd1lpZ2tJYjZmNnFlL2dRRCtHY09zUEVJeXpZNwptcWdNVzlmZ29VWDFBWGx6VUtWNE1xVzNSWGJRS3Z5WlVxV2NNNXYzUkd0blVuWTBKb0JLaTdVZXNmeVJRN2RtCkFWM2lqZSt4aExWZ284KzNZR05GSWJVQ2dZRUF1N0pmNERyZS9ldjNNSTBMb3dsQ2JsaUplVitPZDQxN2RkSVAKd21LZEl5b1I1UUg5M0NGejZGMm56ejM1aG5pVTl5Y2NsUFloNzNnQTVpMUZ0ZTBhY29ubXdTUGVPS1BnUUVMNwpFZ2pXSmJhV0hXMzVaTWFxeW1TZ1NaRXZUQlRmek1KZ3g2dTV0WElkYUVDNXRRUXozd1lXeEhKL3ZYSHpZZjhTCldXbFBSSWtDZ1lFQWlTYlFWU3gxaHQ2alFYYkhhK3JLL1pVcS8rL1pqQmszWWpsTTg5TkNHdEhuc2JPT1pnWGQKS0tHb1NDTXBIZmU3L2l1eXNVeThTNEJHVjhQWWlXbC9jRUwwTnJoaTg3V1owSFNKZVl4U0FNd3o1VWZYQlErUgpOVDNISDNtMXdBQ0NvZE91WkNncm9INXRGZXlTZTNLTmFxNWNyZ2VwektuT2NKbGhXR01GZ2tFPQotLS0tLUVORCBSU0EgUFJJVkFURSBLRVktLS0tLQo=</p>
+<p data-path-to-node="0">&nbsp;</p>
+<div id="model-response-message-contentr_86c421869f91652d" class="markdown markdown-main-panel enable-luminous-fast-follows enable-updated-hr-color" dir="ltr">
+<p data-path-to-node="0">This file is your cluster's official <strong data-path-to-node="0" data-index-in-node="37"><code data-path-to-node="0" data-index-in-node="37">kubeconfig</code></strong> credential mapping payload, and the accompanying connection parameters detail the administrative access route to the <strong data-path-to-node="0" data-index-in-node="165">external load balancer/gateway</strong> managing your <code data-path-to-node="0" data-index-in-node="210">backuptest</code> cluster topology.</p>
+<h3 data-path-to-node="2">1. What This File Contains</h3>
+<p data-path-to-node="3">The text block is a fully populated standard Kubernetes configuration file split into three distinct segments:</p>
+<ul data-path-to-node="4">
+<li>
+<p data-path-to-node="4,0,0"><strong data-path-to-node="4,0,0" data-index-in-node="0">Cluster Endpoint &amp; Certificate Authority (<code data-path-to-node="4,0,0" data-index-in-node="42">certificate-authority-data</code>):</strong> This maps the destination API endpoint (<code data-path-to-node="4,0,0" data-index-in-node="111">https://49.50.117.30:6443</code>) and embeds the base64-encoded root certificate so your terminal knows how to establish a trusted TLS connection without throwing security warnings.</p>
+</li>
+<li>
+<p data-path-to-node="4,1,0"><strong data-path-to-node="4,1,0" data-index-in-node="0">User Credentials:</strong> The blocks <code data-path-to-node="4,1,0" data-index-in-node="29">client-certificate-data</code> and <code data-path-to-node="4,1,0" data-index-in-node="57">client-key-data</code> represent your high-level administrative cryptographic user keys (<code data-path-to-node="4,1,0" data-index-in-node="139">backuptest-admin</code>). This functions as a cluster root password.</p>
+</li>
+<li>
+<p data-path-to-node="4,2,0"><strong data-path-to-node="4,2,0" data-index-in-node="0">Context:</strong> It links user <code data-path-to-node="4,2,0" data-index-in-node="23">backuptest-admin</code> to cluster <code data-path-to-node="4,2,0" data-index-in-node="51">backuptest</code> so that when you run any command, it automatically authenticates you with cluster-admin privileges.</p>
+</li>
+</ul>
+<h3 data-path-to-node="6">2. What It Is Used For</h3>
+<p data-path-to-node="7">This file is used to grant your local machine or external control management servers remote administrative access to manage the cluster without needing to SSH directly into the master nodes.</p>
+<p data-path-to-node="8">Since you are standing up Kasten on the replica node, you need to save this file to let your automation layers communicate with your testing cluster API cleanly.</p>
+<h3 data-path-to-node="10">🛠️ How to Apply and Use This File Now</h3>
+<p data-path-to-node="11">If you want to manage this new cluster from your remote deployment node or configure external tooling, execute these commands on the control machine:</p>
+<ol start="1" data-path-to-node="12">
+<li>
+<p data-path-to-node="12,0,0">Copy the entire text block starting from <code data-path-to-node="12,0,0" data-index-in-node="41">apiVersion: v1</code> to the bottom of the private key line.</p>
+</li>
+<li>
+<p data-path-to-node="12,1,0">Save it to your root deployment workspace directory:</p>
+<div class="code-block ng-tns-c1277634023-199 ng-animate-disabled ng-trigger ng-trigger-codeBlockRevealAnimation" data-hveid="0" data-ved="0CAAQhtANahgKEwjf49zuupGVAxUAAAAAHQAAAAAQhAM">
+<div class="formatted-code-block-internal-container ng-tns-c1277634023-199">
+<div class="animated-opacity ng-tns-c1277634023-199">
+<div class="code-block-decoration header-formatted gds-emphasized-body-m ng-tns-c1277634023-199 ng-star-inserted"><span class="ng-tns-c1277634023-199">Bash</span>
+<div class="buttons ng-tns-c1277634023-199 ng-star-inserted">&nbsp;</div>
+</div>
+<pre class="ng-tns-c1277634023-199"><code class="code-container formatted ng-tns-c1277634023-199" data-test-id="code-content">nano ~/.kube/config-backuptest
+</code></pre>
+</div>
+</div>
+</div>
+<p data-path-to-node="12,1,2"><em data-path-to-node="12,1,2" data-index-in-node="0">(Paste the configuration text inside and save).</em></p>
+</li>
+<li>
+<p data-path-to-node="12,2,0">Initialize your runtime shell to point to this connection mapping profile:</p>
+<div class="code-block ng-tns-c1277634023-200 ng-animate-disabled ng-trigger ng-trigger-codeBlockRevealAnimation" data-hveid="0" data-ved="0CAAQhtANahgKEwjf49zuupGVAxUAAAAAHQAAAAAQhQM">
+<div class="formatted-code-block-internal-container ng-tns-c1277634023-200">
+<div class="animated-opacity ng-tns-c1277634023-200">
+<div class="code-block-decoration header-formatted gds-emphasized-body-m ng-tns-c1277634023-200 ng-star-inserted"><span class="ng-tns-c1277634023-200">Bash</span>
+<div class="buttons ng-tns-c1277634023-200 ng-star-inserted">&nbsp;</div>
+</div>
+<pre class="ng-tns-c1277634023-200"><code class="code-container formatted ng-tns-c1277634023-200" data-test-id="code-content"><span class="hljs-built_in">export</span> KUBECONFIG=~/.kube/config-backuptest
+</code></pre>
+</div>
+</div>
+</div>
+</li>
+<li>
+<p data-path-to-node="12,3,0">Verify that you can seamlessly communicate with the control plane from across the management network layer:</p>
+<div class="code-block ng-tns-c1277634023-201 ng-animate-disabled ng-trigger ng-trigger-codeBlockRevealAnimation" data-hveid="0" data-ved="0CAAQhtANahgKEwjf49zuupGVAxUAAAAAHQAAAAAQhgM">
+<div class="formatted-code-block-internal-container ng-tns-c1277634023-201">
+<div class="animated-opacity ng-tns-c1277634023-201">
+<div class="code-block-decoration header-formatted gds-emphasized-body-m ng-tns-c1277634023-201 ng-star-inserted"><span class="ng-tns-c1277634023-201">Bash</span>
+<div class="buttons ng-tns-c1277634023-201 ng-star-inserted">&nbsp;</div>
+</div>
+<pre class="ng-tns-c1277634023-201"><code class="code-container formatted ng-tns-c1277634023-201" data-test-id="code-content">kubectl get nodes
+</code></pre>
+</div>
+</div>
+</div>
+<p data-path-to-node="12,3,2">This will immediately display your <code data-path-to-node="12,3,2" data-index-in-node="35">backuptest</code> control-plane and worker nodes straight from your control workspace.</p>
+</li>
+</ol>
+</div>
+</div>
+<!-- Comments are visible in the HTML source only -->
