@@ -232,7 +232,7 @@ FROM V$DATABASE;
 <div class="relative z-0 flex max-w-full">
 <div id="code-block-viewer" class="q9tKkq_viewer cm-editor z-10 light:cm-light dark:cm-light flex h-full w-full flex-col items-stretch ͼd ͼr" dir="ltr">
 <div class="cm-scroller">
-<pre class="cm-content q9tKkq_readonly m-0"><code><span class="ͼg">SELECT</span> USERNAME, ACCOUNT_STATUS<br /><span class="ͼg">FROM</span> DBA_USERS<br /><span class="ͼg">WHERE</span> USERNAME<span class="ͼg">=</span><span class="ͼk">'APPS'</span>;</code></pre>
+<pre class="cm-content q9tKkq_readonly m-0">ALTER SESSION SET CONTAINER=PROD;<br /><br />SELECT username<br />FROM dba_users<br />WHERE username='APPS';</pre>
 </div>
 </div>
 </div>
