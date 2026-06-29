@@ -313,9 +313,11 @@ END;
 <pre><code class="language-bash">sqlplus apps/password@//10.61.185.221:1521/prod
 </code></pre>
 <p>And from application server:</p>
-<pre><code class="language-bash">sqlplus apps/password@PRODCDB
+<pre><code class="language-bash">sqlplus apps/password@PRODCDB<br /><br />
 </code></pre>
 <p>Important:</p>
+<p>ALTER SESSION SET CONTAINER=PROD;<br /><br /><br />ALTER USER APPS IDENTIFIED BY "prodpspcl456";</p>
+<p>&nbsp;</p>
 <ul>
 <li>
 <p>Since this is a physical standby, these service changes are temporary and mainly for DR drill/application connectivity.</p>
