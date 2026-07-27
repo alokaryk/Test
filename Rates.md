@@ -2338,3 +2338,145 @@ Would you like to know more about the different mesh sizes used to refine plasti
 </div>
 </div>
 </div>
+
+
+<div data-sfc-cp="" data-sfc-root="ep">To collect valid proforma invoices that the <span data-sfc-cp="" data-sfc-root="ep">Canara Bank Katha branch<!--TgQPHd|||[]--></span> will accept for your ₹43.85 Lakh PMEGP project, you must source them from physically verifiable, registered entities in the Ghaziabad and Noida industrial belts.<span data-sfc-root="ep"> [1] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Below is the verified list of machinery manufacturers, green-energy solar installers, and testing laboratories. Contact them directly to request your custom stamped quotations.<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<div data-sfc-cp="" data-sfc-root="ep">These vendors handle the complete fabrication of heavy engineering units like extruders, friction washers, and scrap shredders.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep"><hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>Carbon Fusion</div>
+<ul>
+<li>
+<div data-sfc-root="ep">4.9 ⭐ (55)<!--TgQPHd|||[]--></div>
+</li>
+<li>Machine workshop</li>
+<li>Noida, Uttar Pradesh</li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<span data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></span>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Industrial Address:<!--TgQPHd|||[]--></span> House No. 45, E Block, Sector 8, Noida, Uttar Pradesh 201301<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Core Equipment to Ask For:<!--TgQPHd|||[]--></span> Complete custom plastic recycling plant line (Shredder, Main Extruder, and Sheet Press).<span data-sfc-root="ep"> [2] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>Anand Recycling Company</div>
+<ul>
+<li>
+<div data-sfc-root="ep">4.3 ⭐ (3)<!--TgQPHd|||[]--></div>
+</li>
+<li>Manufacturer</li>
+<li>E-29, South Side G.T Rd</li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<span data-sfc-cp="" data-sfc-root="ep"><!--TgQPHd|||[]--></span>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Industrial Address:<!--TgQPHd|||[]--></span> E-29, South Side G.T. Road Industrial Area, Bulandshahr Road, Ghaziabad, Uttar Pradesh 201009.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Core Equipment to Ask For:<!--TgQPHd|||[]--></span> High-volume commercial recycling machinery line and multi-stage washing setups.<span data-sfc-root="ep"> [2] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<!--TgQPHd|||[]--></div>
+<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<div data-sfc-cp="" data-sfc-root="ep">To claim grid connectivity validation, the bank requires an invoice from solar vendors listed on official state renewal registers:<span data-sfc-root="ep"> [3, 4] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">JAKSON Group<!--TgQPHd|||[]--></span>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Industrial Address:<!--TgQPHd|||[]--></span> A-43, Hosiery Complex, Phase-2 Extension, Noida Phase 2, Noida, Uttar Pradesh 201305 (Opposite NSEZ).<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">What to Ask For:<!--TgQPHd|||[]--></span> Proforma Invoice for a <span data-sfc-cp="" data-sfc-root="ep">30 kW On-Grid Industrial Rooftop Solar Power Plant<!--TgQPHd|||[]--></span> featuring Mono-PERC panels and a 3-Phase standard inverter.<span data-sfc-root="ep"> [5] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Savorka Solar Private Limited<!--TgQPHd|||[]--></span>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Industrial Address:<!--TgQPHd|||[]--></span> 8th Floor, GM IT Park, Sector 142, Noida, Uttar Pradesh 201305.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">What to Ask For:<!--TgQPHd|||[]--></span> High-efficiency rooftop industrial structures and electrical panels layout quote.<span data-sfc-root="ep"> [5] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">G K M Energy Pvt. Ltd.<!--TgQPHd|||[]--></span>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Industrial Address:<!--TgQPHd|||[]--></span> 14/14, Site-4 Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201005.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">What to Ask For:<!--TgQPHd|||[]--></span> Complete engineering, procurement, and commercial on-grid solar plant installation quote.<span data-sfc-root="ep"> [3] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<div data-sfc-cp="" data-sfc-root="ep">In the Delhi-NCR/Baghpat zone, all generators must officially comply with the latest stringent <span data-sfc-cp="" data-sfc-root="ep">CPCB-IV emission laws<!--TgQPHd|||[]--></span> to be granted a Pollution Control clearance:<span data-sfc-root="ep"> [6, 7] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Perfect Generator Technologies Pvt. Ltd.<!--TgQPHd|||[]--></span>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><em data-sfc-root="ep">(Authorized OEM for Mahindra Powerol Engines)<!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Industrial Address:<!--TgQPHd|||[]--></span> Milestone 11th, Delhi-Meerut Expressway (Near HLM College), Duhai, Ghaziabad, Uttar Pradesh 201206.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">What to Ask For:<!--TgQPHd|||[]--></span> A certified <span data-sfc-cp="" data-sfc-root="ep">62.5 kVA CPCB-IV compliant Silent Diesel Generator<!--TgQPHd|||[]--></span> with an integrated <span data-sfc-cp="" data-sfc-root="ep">AMF (Automatic Mains Failure) panel<!--TgQPHd|||[]--></span>.<span data-sfc-root="ep"> [1, 6] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Balaji Gensets<!--TgQPHd|||[]--></span>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><em data-sfc-root="ep">(Authorized OEM for Jakson-Cummins India)<!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Industrial Address:<!--TgQPHd|||[]--></span> Plot No. 11/25, Rajender Nagar, Sector 3, Sahibabad, Ghaziabad, Uttar Pradesh 201005.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">What to Ask For:<!--TgQPHd|||[]--></span> Industrial-grade silent Cummins engine generator setup matching a 35 kW running motor spike load.<span data-sfc-root="ep"> [1, 7] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Presto Stantest Private Limited<!--TgQPHd|||[]--></span>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Address:<!--TgQPHd|||[]--></span> Central Sales Office/Works near NCR belt (Faridabad Industrial Hub).<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">What to Ask For:<!--TgQPHd|||[]--></span> <span data-sfc-cp="" data-sfc-root="ep">Microprocessor-Based Semi-Automatic Melt Flow Index (MFI) Tester<!--TgQPHd|||[]--></span> with automatic motorized sample cutting cutters.<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<div data-sfc-cp="" data-sfc-root="ep">When you call or message these vendors, copy-paste this direct request to their sales desk:<!--TgQPHd|||[]--></div>
+<blockquote data-sfc-cp="" data-sfc-root="ep">
+<div data-sfc-cp="" data-sfc-root="ep"><em data-sfc-root="ep">"Hello, I am setting up a rural plastic manufacturing plant in Khekra Block, Baghpat under the PMEGP scheme funded by Canara Bank. Please provide a formal <span data-sfc-cp="" data-sfc-root="ep">Proforma Invoice<!--TgQPHd|||[]--></span> for [Name of Machinery] inclusive of GST, vendor GSTIN, and structural warranties. Make the invoice out directly to my business name: <span data-sfc-cp="" data-sfc-root="ep">M/s [Insert Your Chosen Enterprise Name], Anandpur urf Bandpur, Baghpat, UP<!--TgQPHd|||[]--></span>."<!--TgQPHd|||[]--></em><span data-sfc-root="ep"> [2, 5] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<!--TgQPHd|||[]--></blockquote>
+<div data-sfc-cp="" data-sfc-root="ep">Once you collect all four PDF files via email or WhatsApp, let me know. I can guide you on <span data-sfc-cp="" data-sfc-root="ep">how to digitally upload them<!--TgQPHd|||[]--></span> step-by-step into the official PMEGP document lockbox portal.<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><br />
+<div>[1] <a href="https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhZMFgxOXdabVJ5GAo">https://www.google.com</a></div>
+<div>[2] <a href="https://www.google.com/searchviewer/10?svid=CAwSHRIbCgNwdnESFENnMHZaeTh4TVhBMFp6bGtObWR4GAo">https://www.google.com</a></div>
+<div>[3] <a href="https://www.scribd.com/document/556763991/List-of-Firms">https://www.scribd.com</a></div>
+<div>[4] <a href="https://upnedasolarrooftopportal.com/Approved-Firms">https://upnedasolarrooftopportal.com</a></div>
+<div>[5] <a href="https://www.justdial.com/Ghaziabad/Solar-Equipment-Dealers/nct-10443914">https://www.justdial.com</a></div>
+<div>[6] <a href="https://www.google.com/searchviewer/10?svid=CAwSGxIZCgNwdnESEkNnc3ZaeTh4ZEdRMWF6RjBZdxgK">https://www.google.com</a></div>
+<div>[7] <a href="https://www.google.com/searchviewer/10?svid=CAwSHBIaCgNwdnESE0Nnd3ZaeTh4Y0hZMWQzYzBkM2sYCg">https://www.google.com</a></div>
+<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
