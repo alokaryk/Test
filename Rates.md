@@ -121,3 +121,113 @@ For procurement, do not treat every listing as a stable supplier. The safer mode
 So, yes, they may be selling raw material, but the real check is whether they are **direct scrap owners/aggregators** or only **brokers**. For your recycling unit, the best result usually comes from building a network of genuine plastic scrap dealers, industrial scrap suppliers, and bulk waste collectors rather than relying on one type of seller. [didartrading](https://www.didartrading.in/plastic-scrap.htm)
 
 I can turn this into a **vendor verification checklist and purchase SOP** for your plastic scrap factory.
+
+
+Yes — below is a practical **standard operating procedure (SOP)** for purchasing plastic scrap for your recycling factory. It is based on common procurement controls used in scrap-sale/scrap-purchase workflows: vendor verification, quotation, inspection, weighing, approval, payment, and recordkeeping. [es.scribd](https://es.scribd.com/document/710392229/PIBM-Purchase-SOP)
+
+## SOP for Scrap Purchase
+
+### 1) Purpose
+To ensure plastic scrap is purchased at the right quality, right price, and with full traceability. The SOP should reduce contamination risk, prevent overbilling, and keep supply consistent for the recycling plant. [algoma](https://www.algoma.com/wp-content/uploads/2025/07/PROC.SOP_.SCR_.001-Vendor-Requirements-Manual-for-Scrap-Purchase.pdf)
+
+### 2) Scope
+This applies to all plastic scrap purchases, including PET, HDPE, LDPE, PP, mixed plastic, baled scrap, loose scrap, industrial scrap, and rejected lots from vendors, aggregators, and bulk waste generators. [forecoplast](https://forecoplast.com/plastic-scrap-suppliers/delhi)
+
+### 3) Vendor onboarding
+Before buying, verify the vendor profile:
+- Vendor name, GST/PAN, address, bank details.
+- Whether they are a direct scrap owner, aggregator, dealer, or broker.
+- Past supply capacity and material type.
+- Basic compliance documents if they are issuing tax invoices. [es.scribd](https://es.scribd.com/document/612888771/Draft-SOP-Scrap-Sales-1)
+
+### 4) Enquiry and quotation
+Ask at least 2–3 vendors for the same material grade and compare:
+- Material type and grade.
+- Quantity available.
+- Expected rate per kg.
+- Freight terms.
+- Payment terms.
+- Expected delivery date. [scribd](https://www.scribd.com/doc/46866250/Scrap-Procedure)
+
+### 5) Sample and inspection
+Always inspect a sample lot before bulk purchase. Check:
+- Polymer type.
+- Dirt, moisture, labels, caps, metal contamination.
+- Bale density or loose load quality.
+- Whether the scrap is sorted or mixed.
+- Whether the lot is suitable for washing/grinding/extrusion. [scribd](https://www.scribd.com/document/888453578/Standard-Operating-Procedure-for-Scrap-Sale)
+
+### 6) Approval to buy
+Purchase should be approved internally based on:
+- Material requirement of the plant.
+- Current market price.
+- Freight cost.
+- Processing loss estimate.
+- Expected selling price of washed flakes or granules. [fr.scribd](https://fr.scribd.com/document/389827536/CP011-Eng-Scrap)
+
+### 7) Weighment and receipt
+At delivery:
+- Weigh the vehicle before and after unloading.
+- Record gross, tare, and net weight.
+- Take photos of the lot.
+- Match delivery challan/invoice with material received.
+- Reject or deduct for excess moisture, wrong grade, or contamination if agreed in advance. [innogroup.com](https://innogroup.com.ph/isearch/documents/iso/IVM/SP-IVM-05%20Disposal%20of%20Materials-Equipment-Rev.1.pdf)
+
+### 8) Payment control
+Use clear payment terms:
+- Cash for small local purchases only if approved.
+- Advance plus balance after weighment for trusted suppliers.
+- Credit terms only for verified vendors.
+- Hold payment if material quality does not match the agreed specification. [scribd](https://www.scribd.com/document/626316768/SOP-FOR-SCRAP-Copy)
+
+### 9) Material segregation after receipt
+After purchase:
+- Segregate by polymer and grade.
+- Keep PET, HDPE, LDPE, PP, and mixed scrap separate.
+- Mark rejected scrap separately.
+- Send only approved material to washing, shredding, or pelletizing. [algoma](https://www.algoma.com/wp-content/uploads/2025/07/PROC.SOP_.SCR_.001-Vendor-Requirements-Manual-for-Scrap-Purchase.pdf)
+
+### 10) Records to maintain
+Keep a purchase file for every vendor with:
+- Vendor master details.
+- Quotation.
+- Sample approval.
+- Purchase order or confirmation.
+- Weighment slip.
+- Invoice.
+- Payment proof.
+- Quality rejection notes.
+- Net margin calculation. [es.scribd](https://es.scribd.com/document/612888771/Draft-SOP-Scrap-Sales-1)
+
+## Simple purchase flow
+
+1. Identify vendor.
+2. Ask for material details and price.
+3. Check sample.
+4. Negotiate rate and freight.
+5. Approve purchase.
+6. Receive and weigh material.
+7. Inspect quality.
+8. Make payment as per terms.
+9. File all documents.
+10. Review vendor performance. [scribd](https://www.scribd.com/doc/46866250/Scrap-Procedure)
+
+## Useful control points
+
+- Do not buy mixed scrap without checking processing economics.
+- Do not rely on verbal rate only; always confirm by WhatsApp or written note.
+- Do not pay full amount before weighment for new vendors.
+- Keep a vendor scorecard for quality, price, delivery, and cooperation. [scribd](https://www.scribd.com/document/888453578/Standard-Operating-Procedure-for-Scrap-Sale)
+
+## Vendor scorecard fields
+
+- Material consistency.
+- Contamination level.
+- Delivery punctuality.
+- Rate competitiveness.
+- Payment discipline.
+- Repeat supply capability.
+
+For a plastic recycling plant, the best procurement system is usually **sample first, bulk later**. That keeps rejection low and margins stable. [scribd](https://www.scribd.com/document/626316768/SOP-FOR-SCRAP-Copy)
+
+I can also format this into a **one-page SOP document in table form** for direct use in your factory records.
