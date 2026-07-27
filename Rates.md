@@ -231,3 +231,43 @@ Keep a purchase file for every vendor with:
 For a plastic recycling plant, the best procurement system is usually **sample first, bulk later**. That keeps rejection low and margins stable. [scribd](https://www.scribd.com/document/626316768/SOP-FOR-SCRAP-Copy)
 
 I can also format this into a **one-page SOP document in table form** for direct use in your factory records.
+
+
+An MFI Tester is only a testing tool to check the quality of your plastic. It does not change, refine, or purify the plastic in any way. [1, 2, 3] 
+Think of it exactly like a medical thermometer: it can tell you if you have a fever, but it cannot cure the illness.
+------------------------------
+The machine is used purely for classification and sorting. It helps you figure out exactly what quality of product you have already made, so you can price it correctly to the right buyer. [4, 5] 
+
+| The Testing Tool (MFI Tester) | The Refining Methods (Actual Purification) |
+|---|---|
+| Only measures flow rate: It tells you how thick or runny the melted plastic is. | Mesh Screen Filters: Changing the wire mesh filters on your extruder machine to trap hidden dirt, sand, and paper. |
+| Only measures melt consistency: It shows if your batch of scrap material is mixed well or uneven. | Agglomerator Densifier: Pre-melting the plastic scrap in a high-speed machine to burn off excess moisture before it goes into the main extruder. |
+| Only provides data: It gives you a number (e.g., 8 MFI) to write on your packaging bag. | Chemical Masterbatches: Adding chemical additives or waxes into the raw scrap to artificially adjust the final flexibility or strength. |
+
+------------------------------
+If your MFI test reveals that your plastic quality is too poor or inconsistent, you cannot fix it using the tester. You must refine your factory process using these operational steps: [6] 
+## 1. The Raw Material Wash (Pre-Refinement)
+
+* The Problem: Dirty scrap (labels, glue, grease) alters the MFI reading and weakens the plastic.
+* The Fix: Wash the scrap plastic in an automated friction washer before feeding it into the main extruder machine.
+
+## 2. High-Mesh Screen Changing (In-Line Refinement)
+
+* The Problem: Tiny speckles of un-melted foreign plastics or rubber ruin the texture.
+* The Fix: Install a hydraulic screen changer on your extruder. Using a fine 80-mesh to 100-mesh wire filter screens out microscopic dirt particles right before the molten plastic turns into granules.
+
+## 3. Material Blending (Chemical Refinement)
+
+* The Problem: Your batch is too brittle or too soft.
+* The Fix: You blend different scrap batches together in a large mechanical mixer. For instance, mixing a low-MFI scrap batch with a high-MFI scrap batch yields a perfectly balanced, mid-range product. [7] 
+
+Would you like to know more about the different mesh sizes used to refine plastic in the extruder machine, or should we look at the power requirements needed to run these refining machines in Anandpur?
+
+[1] [https://www.prestogroup.com](https://www.prestogroup.com/blog/what-is-the-mfi-test-for-plastics/)
+[2] [https://www.prestogroup.com](https://www.prestogroup.com/articles/what-is-melt-flow-index-tester-and-why-should-you-use-it/)
+[3] [https://www.prestogroup.com](https://www.prestogroup.com/products/melt-flow-index-measurement/)
+[4] [https://www.prestogroup.com](https://www.prestogroup.com/blog/examine-the-features-of-plastics-with-mfi/)
+[5] [https://corporatefinanceinstitute.com](https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/screening/)
+[6] [https://rxerp.com](https://rxerp.com/quality-by-design-qbd/)
+[7] [https://ecoreprap.com](https://ecoreprap.com/rapid-prototyping-services/)
+
