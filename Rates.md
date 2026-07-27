@@ -74,3 +74,50 @@
 </table>
 <p>&nbsp;</p>
 <!-- Comments are visible in the HTML source only -->
+
+
+
+Yes — **many of these buyers do sell/pluck raw plastic scrap**, and that is exactly their business model, but you must verify whether they are **actual sellers/aggregators** or only **lead-generation listing pages**. [justdial](https://www.justdial.com/New%20Delhi/Plastic-Scrap-Buyers/nct-10376294)
+
+## Modus operandi
+
+Their usual flow is:
+1. They collect scrap from households, shops, factories, warehouses, and bulk waste generators.
+2. They sort it by polymer type, cleanliness, and grade.
+3. They weigh it on site or at a yard.
+4. They quote a buying rate based on market value and quality.
+5. They either deliver it to recyclers or resell it to processors/recyclers. [delhiscrap.co](https://delhiscrap.co.in/plastic-scrap-buyers-in-delhi/)
+
+## What this means for your factory
+
+For a plastic recycling factory, these vendors can be useful **raw material sources**, but only if they regularly supply:
+- PET bottles.
+- HDPE drums and pipe scrap.
+- LDPE film scrap.
+- Mixed plastic waste suitable for your processing line. [forecoplast](https://forecoplast.com/plastic-scrap-suppliers/delhi)
+
+## How to check if they are genuine suppliers
+
+Ask them these questions before finalizing:
+- Do they sell **bulk scrap** or only collect on behalf of others.
+- What exact grades do they supply.
+- Whether material is **baled, loose, washed, or mixed**.
+- Minimum quantity per trip.
+- Pickup or delivery terms.
+- Payment terms and GST invoice availability.
+- Whether they can provide a **sample lot** first. [shivacarandbikescrap](https://shivacarandbikescrap.in/plastic-scrap-dealers-and-buyers-in-delhi-ncr)
+
+## Best buying approach
+
+For procurement, do not treat every listing as a stable supplier. The safer model is:
+- Use them as **lead sources**.
+- Ask for a trial load.
+- Check contamination and moisture.
+- Lock rates only after sample approval.
+- Build a vendor list with 5–10 regular sources so supply does not stop. [ansarioldscrap](https://www.ansarioldscrap.in/about-us.html)
+
+## Practical conclusion
+
+So, yes, they may be selling raw material, but the real check is whether they are **direct scrap owners/aggregators** or only **brokers**. For your recycling unit, the best result usually comes from building a network of genuine plastic scrap dealers, industrial scrap suppliers, and bulk waste collectors rather than relying on one type of seller. [didartrading](https://www.didartrading.in/plastic-scrap.htm)
+
+I can turn this into a **vendor verification checklist and purchase SOP** for your plastic scrap factory.
