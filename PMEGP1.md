@@ -4538,7 +4538,7 @@
 <div>
 <div>
 <div class="group/query relative whitespace-pre-line !text-wrap break-words [word-break:break-word] font-sans text-base text-foreground selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super">
-<div class="min-w-[48px] select-none p-3 bg-subtle rounded-2xl flex items-center justify-center"><span class="min-w-0 font-sans text-base text-foreground font-normal select-text break-words selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super">right now I am working in private company cyfuture pvt. ltd. would it </span></div>
+<div class="min-w-[48px] select-none p-3 bg-subtle rounded-2xl flex items-center justify-center"><span class="min-w-0 font-sans text-base text-foreground font-normal select-text break-words selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"></span></div>
 </div>
 </div>
 </div>
