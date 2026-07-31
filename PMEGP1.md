@@ -4559,3 +4559,869 @@
 <div class="pWvJNd" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">&nbsp;</div>
 <div class="flex flex-col">&nbsp;</div>
 </div>
+
+
+<div data-sfc-cp="" data-sfc-root="ep">
+<h2 id="youre-absolutely-right--your-working-capital-of-3" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>You're Absolutely Right &mdash; Your Working Capital of ₹3 Lakh Is DANGEROUSLY LOW!</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">This is a <strong>critical observation</strong>, and you're 100% correct. Let me explain why and show you the proper working capital calculation for a cattle feed manufacturing unit.</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="the-problem-your-current-working-capital-3-lakh-is" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>The Problem: Your Current Working Capital (₹3 Lakh) Is Only 10-15 Days</strong></h2>
+<h2 id="your-current-structure" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Your Current Structure:</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">% of Project</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Fixed Assets</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">45,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">93.75%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Working Capital</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">6.25%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Project Cost</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">48,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">100%</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="why-3-lakh-is-insufficient" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Why ₹3 Lakh Is Insufficient:</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">For a cattle feed unit with:</p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Annual Production</strong>: 2,160 MT (21.6 lakh kg)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Raw Material Cost</strong>: ₹4.49 crore/year (80% of sales)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Monthly Raw Material Requirement</strong>: ₹4.49 crore / 12 = <strong>₹37.4 lakh/month</strong></p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Your ₹3 lakh working capital covers only:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">₹3,00,000 / ₹37,40,000 = <strong>0.08 months = 2.4 days of raw material!</strong></p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>This is a DISASTER waiting to happen:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">❌ You'll run out of raw materials within 3-5 days</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">❌ You'll have to stop production frequently</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">❌ You'll lose customers due to supply delays</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">❌ You'll have to buy raw materials at spot prices (no bulk discounts)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">❌ Banks will see this as poor financial planning</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="industry-standard-working-capital-for-cattle-feed" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Industry Standard: Working Capital for Cattle Feed Units</strong></h2>
+<h2 id="what-similar-projects-have" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>What Similar Projects Have:</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Project Source</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Total Project Cost</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Working Capital</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">% of Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>KVIC Animal Feed Unit</strong> <span class="citation inline" data-pplx-citation="" data-pplx-citation-url="http://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/AnimalFeedfinal.pdf"><span class="group/trigger inline-flex min-w-0" data-state="closed"><span class="citation inline"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">kviconline.gov</span><span class="inline-block ml-xs mr-px !mt-0 ![vertical-align:unset]"><span class="opacity-50">+1</span></span></span></span></span></span></span></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹23.35 lakh</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹7.63 lakh</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>32.7%</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Poultry Feed Unit</strong> <span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.dcmsme.gov.in/publications/pmryprof/chem/ch23.pdf"><span class="inline-flex" data-state="closed"><span class="citation inline"><a class="inline-flex max-w-full min-w-0" href="https://www.dcmsme.gov.in/publications/pmryprof/chem/ch23.pdf" target="_blank" rel="noopener"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">dcmsme.gov</span></span></span></a></span></span></span></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹16.56 lakh</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹9.06 lakh</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>54.7%</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Animal Feed Manufacturing</strong> <span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.scribd.com/document/694517913/Animal-feed-making-unit"><span class="inline-flex" data-state="closed"><span class="citation inline"><a class="inline-flex max-w-full min-w-0" href="https://www.scribd.com/document/694517913/Animal-feed-making-unit" target="_blank" rel="noopener"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">scribd</span></span></span></a></span></span></span></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹23.35 lakh</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹7.63 lakh</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>32.7%</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Your Project</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹48 lakh</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹3 lakh</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>6.25%</strong> ❌</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Industry Benchmark: Working capital should be 25-35% of total project cost</strong><span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.scribd.com/document/563730906/dpr-afeed"><span class="group/trigger inline-flex min-w-0" data-state="closed"><span class="citation inline"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">scribd</span><span class="inline-block ml-xs mr-px !mt-0 ![vertical-align:unset]"><span class="opacity-50">+3</span></span></span></span></span></span></span></p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="proper-working-capital-calculation-3-month-buffer" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Proper Working Capital Calculation (3-Month Buffer)</strong></h2>
+<h2 id="working-capital-components" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Working Capital Components:</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Calculation</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>1. Raw Materials (3 months)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Maize (720 MT @ ₹18,000/MT)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">720 &times; 18,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,29,60,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Oil Cakes (360 MT @ ₹25,000/MT)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">360 &times; 25,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">90,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Supplements (180 MT @ ₹35,000/MT)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">180 &times; 35,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">63,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Packaging Bags (1.8 lakh bags @ ₹15/bag)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,80,000 &times; 15</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">27,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Raw Materials</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>3,09,60,000</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>2. Wages &amp; Salaries (3 months)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- 10 workers @ ₹15,000/month</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">10 &times; 15,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- 2 supervisors @ ₹25,000/month</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2 &times; 25,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- 1 manager @ ₹40,000/month</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1 &times; 40,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,20,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Wages</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>7,20,000</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>3. Utilities (3 months)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Electricity (grid power, even with solar)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,00,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Water, fuel, maintenance</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">50,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Utilities</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>4,50,000</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>4. Other Operating Expenses (3 months)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Marketing &amp; transportation</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,00,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Insurance, admin, contingency</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">75,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,25,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Other</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>5,25,000</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Working Capital Required</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>3,26,55,000</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Wait &mdash; this is ₹3.26 CRORE, which is 6.8x your total project cost!</strong></p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">This is because I calculated for <strong>full capacity (100%)</strong>. Let me recalculate for <strong>60% capacity (Year 1 operations)</strong>:</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="revised-working-capital-60-capacity-3-month-buffer" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Revised Working Capital (60% Capacity, 3-Month Buffer)</strong></h2>
+<h2 id="realistic-calculation" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Realistic Calculation:</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Calculation</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>1. Raw Materials (3 months @ 60% capacity)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Monthly raw material cost (60% capacity)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹37.4 lakh &times; 60% = ₹22.44 lakh</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- 3 months buffer</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">22,44,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>67,32,000</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>2. Wages &amp; Salaries (3 months)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- 8 workers @ ₹15,000/month</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">8 &times; 15,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,60,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- 1 supervisor @ ₹25,000/month</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1 &times; 25,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">75,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- 1 manager @ ₹35,000/month</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1 &times; 35,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,05,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Wages</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>5,40,000</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>3. Utilities (3 months)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Electricity (mostly solar, minimal grid)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">40,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,20,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Water, fuel, maintenance</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">40,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,20,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Utilities</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>2,40,000</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>4. Other Operating Expenses (3 months)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Marketing &amp; transportation</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">80,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,40,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Insurance, admin, contingency</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">60,000 &times; 3</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,80,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Other</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>4,20,000</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Working Capital Required</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>79,32,000</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>This is ₹79.32 lakh</strong>, which is still <strong>1.65x your total project cost (₹48 lakh)</strong>!</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="the-reality-you-need-to-restructure-your-entire-pr" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>The Reality: You Need to Restructure Your Entire Project</strong></h2>
+<h2 id="problem-identified" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Problem Identified:</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Your current project structure is <strong>heavily skewed toward fixed assets</strong> and <strong>severely underfunded for working capital</strong>. This is a classic mistake that leads to:</p>
+<ol class="marker:text-quiet list-decimal pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Production stoppages</strong> (no raw material cash)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Inability to fulfill orders</strong> (can't buy materials in bulk)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Poor bargaining power</strong> (forced to buy at spot prices)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Bank will reject</strong> (they see this as poor financial planning)</p>
+</li>
+</ol>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="solution-two-options" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Solution: Two Options</strong></h2>
+<h2 id="option-1-reduce-fixed-assets-increase-working-capi" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Option 1: Reduce Fixed Assets, Increase Working Capital (Recommended)</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Revised Project Structure:</strong></p>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Original (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Revised (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Change</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Fixed Assets:</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Civil Works (Shed, etc.)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">13,50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">10,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Reduce shed size or phase construction</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Plant &amp; Machinery</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">16,50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">12,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Buy smaller capacity or used machinery</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Solar Power System</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">11,50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">8,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Start with 15 kW, expand later</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Water Infrastructure</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,80,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Minor reduction</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Quality Compliance</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,70,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Minor reduction</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Fixed Assets</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>45,00,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>33,00,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>-₹12 lakh</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Working Capital (3 months)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">15,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>+₹12 lakh</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Project Cost</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>48,00,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>48,00,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Same</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>New Structure:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Fixed Assets: 68.75% (was 93.75%)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Working Capital: 31.25% (was 6.25%)</p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>This is much healthier and bankable!</strong></p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="option-2-increase-total-project-cost-keep-fixed-as" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Option 2: Increase Total Project Cost, Keep Fixed Assets</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Revised Project Structure:</strong></p>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Original (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Revised (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Fixed Assets</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">45,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">45,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Working Capital (3 months)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">18,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Project Cost</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">48,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">63,00,000</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>New Structure:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Fixed Assets: 71.4%</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Working Capital: 28.6%</p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Means of Finance (OBC Rural, 35% Subsidy):</strong></p>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Source</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Your Contribution (5%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,15,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>PMEGP Subsidy (35%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">22,05,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">35%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Bank Loan (60%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">37,80,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">60%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>63,00,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>100%</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>But wait &mdash; PMEGP maximum loan is ₹50 lakh for manufacturing!</strong><span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.paisabazaar.com/business-loan/pmegp-loan/"><span class="inline-flex" data-state="closed"><span class="citation inline"><a class="inline-flex max-w-full min-w-0" href="https://www.paisabazaar.com/business-loan/pmegp-loan/" target="_blank" rel="noopener"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">paisabazaar</span></span></span></a></span></span></span></p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">So you can do:</p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">PMEGP Loan: ₹28.8 lakh (60% of ₹48 lakh)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Additional Working Capital Loan: ₹9-10 lakh (separate CC/OD limit)</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="practical-loan-tenure-for-factory-projects-50-lakh" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Practical Loan Tenure for Factory Projects (₹50 Lakh - ₹1 Crore)</strong></h2>
+<h2 id="industry-standards" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Industry Standards:</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Loan Type</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Typical Tenure</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Your Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Term Loan (Fixed Assets)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5-7 years (max 10 years for large projects) <span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.indianbank.in/departments/food-and-agro-processing/"><span class="group/trigger inline-flex min-w-0" data-state="closed"><span class="citation inline"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">indianbank</span><span class="inline-block ml-xs mr-px !mt-0 ![vertical-align:unset]"><span class="opacity-50">+2</span></span></span></span></span></span></span></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>5-7 years</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Working Capital (CC/OD Limit)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1 year, renewable annually <span class="citation inline" data-pplx-citation="" data-pplx-citation-url="http://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/AnimalFeedfinal.pdf"><span class="group/trigger inline-flex min-w-0" data-state="closed"><span class="citation inline"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">kviconline.gov</span><span class="inline-block ml-xs mr-px !mt-0 ![vertical-align:unset]"><span class="opacity-50">+2</span></span></span></span></span></span></span></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>1 year (renewable)</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Machinery Loan</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3-5 years <span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.paisabazaar.com/hindi/business-loan/machinery-loan/"><span class="inline-flex" data-state="closed"><span class="citation inline"><a class="inline-flex max-w-full min-w-0" href="https://www.paisabazaar.com/hindi/business-loan/machinery-loan/" target="_blank" rel="noopener"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">paisabazaar</span></span></span></a></span></span></span></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>3-5 years</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Composite Loan (Term + WC)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5 years with 6-month moratorium <span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.scribd.com/document/563730906/dpr-afeed"><span class="group/trigger inline-flex min-w-0" data-state="closed"><span class="citation inline"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">scribd</span><span class="inline-block ml-xs mr-px !mt-0 ![vertical-align:unset]"><span class="opacity-50">+1</span></span></span></span></span></span></span></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>5 years</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="recommended-structure-for-your-project" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Recommended Structure for Your Project:</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Tenure</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">EMI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Term Loan (Fixed Assets: ₹33 lakh)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Loan Amount (60% of ₹33L)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">19,80,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5 years</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹36,500/month</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Working Capital Loan</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- CC/OD Limit (₹15 lakh)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">15,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1 year (renewable)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Interest only (₹13,750/month)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Loan</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">34,80,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹50,250/month</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>This is much more manageable than ₹94,288/month for 3 years!</strong></p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="revised-dpr-with-proper-working-capital" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Revised DPR with Proper Working Capital</strong></h2>
+<h2 id="recommended-project-structure" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Recommended Project Structure:</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">% of Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>A. Fixed Assets</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1. Civil Works (Shed, Godown, Office - 2,500 sq.ft)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">10,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">30.3%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2. Plant &amp; Machinery (1 MT/hour capacity)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">12,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">36.4%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3. Solar Power System (15 kW Hybrid + Battery)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">8,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">24.2%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4. Water Infrastructure</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4.5%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5. Quality Compliance</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4.5%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Fixed Assets</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>33,00,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>100%</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>B. Working Capital (3 months)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1. Raw Materials</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">12,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">80%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2. Wages &amp; Salaries</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">10%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3. Utilities</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3.3%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4. Other Expenses</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">6.7%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Working Capital</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>15,00,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>100%</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Project Cost (A + B)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>48,00,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>100%</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="means-of-finance" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Means of Finance:</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Source</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Your Contribution (5%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,40,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>PMEGP Subsidy (35%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">16,80,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">35%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Bank Loan (60%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">28,80,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">60%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>48,00,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>100%</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="loan-breakdown" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Loan Breakdown:</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Tenure</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Monthly Payment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Term Loan</strong> (for fixed assets: ₹19.8 lakh)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">19,80,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5 years</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹36,500</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Working Capital CC/OD</strong> (for operations: ₹9 lakh)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">9,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1 year (renewable)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">₹8,250 (interest only)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>28,80,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>₹44,750/month</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="revised-dscr-with-proper-working-capital" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Revised DSCR with Proper Working Capital</strong></h2>
+<h2 id="year-1-projections-60-capacity" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Year 1 Projections (60% Capacity):</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">
+<div class="absolute left-0 top-0 w-full overflow-hidden bg-raised border-x md:max-w-[90vw] dark:shadow-lg border-subtlest ring-subtlest divide-subtlest">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Particulars</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+</table>
+</div>
+</div>
+</div>
+<div class="flex flex-col">&nbsp;</div>
+<div class="flex flex-col gap-md @3xl:gap-lg w-full pt-md @3xl:pt-lg">&nbsp;</div>
+</div>
