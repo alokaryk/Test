@@ -3936,3 +3936,626 @@
 <div class="pWvJNd" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">&nbsp;</div>
 <div class="flex flex-col">&nbsp;</div>
 </div>
+
+
+
+
+<div data-sfc-cp="" data-sfc-root="ep">
+<div class="flex flex-col">&nbsp;</div>
+<div class="flex flex-col gap-md @3xl:gap-lg w-full pt-md @3xl:pt-lg">
+<div class="w-full">
+<div class="w-full flex flex-col">
+<div id="radix-_r_46_-content-default" class="focus:outline-none" tabindex="0" data-state="active" data-orientation="horizontal">
+<div class="flex flex-col @3xl:gap-y-lg gap-y-md">
+<div class="gap-y-sm flex flex-col">
+<div class="flex flex-col">
+<div class="flex flex-col gap-4">
+<div>
+<div class="flow-root">
+<div class="flex flex-col flex-1 min-w-0 gap-5">
+<div class="flex flex-col flex-1 min-w-0">
+<div class="flex flex-col flex-1 min-w-0 gap-4">
+<div class="flex flex-col flex-1 min-w-0 gap-4">
+<div class="break-words min-w-0 flex-1">
+<div>
+<div class="prose dark:prose-invert inline leading-relaxed break-words min-w-0 [word-break:break-word] [&amp;_&gt;*:first-child]:mt-0 [&amp;_&gt;*:last-child]:mb-0" data-renderer="lm">
+<h2 id="common-reasons-for-pmegp-loan-application-rejectio" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4">Common Reasons for PMEGP Loan Application Rejection in Baghpat District</h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Based on PMEGP guidelines and national rejection data, here are the most common reasons why loan applications get rejected in Baghpat and surrounding Uttar Pradesh districts:</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="category-1-documentation--application-errors-35-40" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Category 1: Documentation &amp; Application Errors (35-40% of Rejections)</strong></h2>
+<h2 id="1-incomplete-or-incorrect-documentation" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">1.&nbsp;<strong>Incomplete or Incorrect Documentation</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Missing mandatory documents (OBC certificate, land ownership proof, affidavits)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Self-attestation not done properly</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Documents not in prescribed format (especially OBC certificate)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Expired or old certificates (older than 6 months)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>For Baghpat</strong>: Jat community OBC certificate not in UP government prescribed format</p>
+</li>
+</ul>
+<h2 id="2-improper-application-form-filling" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">2.&nbsp;<strong>Improper Application Form Filling</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Incomplete fields in online/offline application</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Mismatch between application form and project report details</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Wrong category selection (General instead of OBC)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Incorrect area classification (Urban instead of Rural for Anandpur)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Spelling mistakes in name, address, or village name</p>
+</li>
+</ul>
+<h2 id="3-vague-or-inconsistent-information" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">3.&nbsp;<strong>Vague or Inconsistent Information</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Project cost in application doesn't match DPR</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Means of finance calculation errors (not following 5%-35%-60% rule for OBC)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Employment generation figures inconsistent across documents</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Address mismatch between Aadhaar, land documents, and application</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="category-2-project-viability-issues-25-30-of-rejec" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Category 2: Project Viability Issues (25-30% of Rejections)</strong></h2>
+<h2 id="4-project-not-viable-most-common-bank-rejection-re" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">4.&nbsp;<strong>Project Not Viable (Most Common Bank Rejection Reason)</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Unrealistic financial projections</strong>: Overestimated sales, underestimated costs</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Low Debt Service Coverage Ratio (DSCR)</strong>: Below 1.5 indicates inability to repay loan</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>High Break-Even Point</strong>: Beyond 36 months raises concerns</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Inadequate working capital</strong>: Not enough funds for 3-6 months operations</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>For cattle feed units</strong>: Overestimation of local demand in Baghpat without market research</p>
+</li>
+</ul>
+<h2 id="5-inadequate-knowledge-in-proposed-industry" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">5.&nbsp;<strong>Inadequate Knowledge in Proposed Industry</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">No prior experience in cattle feed manufacturing or agriculture</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Unable to answer technical questions during physical verification</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">No EDP training or relevant skill certificates</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Lack of understanding of raw material sourcing, production process, or marketing</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Specific to your case</strong>: No background in animal feed industry may raise concerns</p>
+</li>
+</ul>
+<h2 id="6-activity-in-negative-list" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">6.&nbsp;<strong>Activity in Negative List</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">While cattle feed manufacturing is generally approved, ensure your project doesn't include:</p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Any activity prohibited under PMEGP guidelines</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Trading-only activities (PMEGP is for manufacturing/service, not pure trading)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Activities requiring environmental clearances that are difficult to obtain</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="category-3-financial--credit-issues-15-20-of-rejec" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Category 3: Financial &amp; Credit Issues (15-20% of Rejections)</strong></h2>
+<h2 id="7-poor-cibil-score-or-credit-history" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">7.&nbsp;<strong>Poor CIBIL Score or Credit History</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>CIBIL score below 650-700</strong>&nbsp;(banks prefer 750+)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Previous loan defaults or delayed EMIs</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Multiple pending credit card dues</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Existing personal loans with high EMI burden</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Common in rural Baghpat</strong>: Informal borrowing from moneylenders not reflected in CIBIL but discovered during verification</p>
+</li>
+</ul>
+<h2 id="8-unable-to-deposit-own-contribution-margin-money" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">8.&nbsp;<strong>Unable to Deposit Own Contribution (Margin Money)</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>For OBC rural</strong>: Must deposit 5% of project cost before loan disbursement</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">For ₹50 lakh project, you need ₹2.5 lakh in your bank account</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Banks verify source of funds - unexplained large deposits raise red flags</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Solution</strong>: Keep margin money in your account for at least 3-6 months before application</p>
+</li>
+</ul>
+<h2 id="9-existing-unit-or-previous-pmegpregp-loan" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">9.&nbsp;<strong>Existing Unit or Previous PMEGP/REGP Loan</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">You or your spouse already availed PMEGP/REGP loan</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Existing registered business in your name or family members</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Note</strong>: PMEGP is only for&nbsp;<strong>new viable micro enterprises</strong></p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="category-4-location--service-area-issues-10-15-of" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Category 4: Location &amp; Service Area Issues (10-15% of Rejections)</strong></h2>
+<h2 id="10-out-of-service-area" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">10.&nbsp;<strong>Out of Service Area</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Applying to a bank that doesn't serve Baghpat district</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Your permanent address outside the bank's operational area</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Solution</strong>: Apply through banks with branches in Khekra, Baghpat, or nearby areas (SBI, PNB, Canara Bank, UCO Bank)</p>
+</li>
+</ul>
+<h2 id="11-pmegp-target-already-achieved" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">11.&nbsp;<strong>PMEGP Target Already Achieved</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Bank has already met its annual PMEGP target for Baghpat district</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Note</strong>: As per 2025-26 guidelines, this reason has been officially removed, but some banks still use it informally</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="category-5-applicant-eligibility-issues-5-10-of-re" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Category 5: Applicant Eligibility Issues (5-10% of Rejections)</strong></h2>
+<h2 id="12-already-a-government-employee" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">12.&nbsp;<strong>Already a Government Employee</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Applicant or spouse is a serving government employee</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">PMEGP is for unemployed individuals or those seeking self-employment</p>
+</li>
+</ul>
+<h2 id="13-age-criteria-not-met" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">13.&nbsp;<strong>Age Criteria Not Met</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Applicant below 18 years or above 60 years (some banks have upper age limit)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Insufficient working years remaining to repay loan</p>
+</li>
+</ul>
+<h2 id="14-unable-to-fulfill-bank-formalities" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">14.&nbsp;<strong>Unable to Fulfill Bank Formalities</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Not opening bank account in the bank where loan is applied</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Not completing KYC formalities</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Not providing post-dated cheques or standing instructions</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="category-6-specific-issues-for-baghpatup-rural-are" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Category 6: Specific Issues for Baghpat/UP Rural Areas</strong></h2>
+<h2 id="15-obc-certificate-issues-critical-for-your-case" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">15.&nbsp;<strong>OBC Certificate Issues (Critical for Your Case)</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Jat community certificate not in UP prescribed format</strong></p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Certificate doesn't clearly mention "OBC" status</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Tehsil/district mismatch (certificate from different district than application)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Certificate older than 6 months</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">No mention of "not covered under Schedule 2" (creamy layer clause)</p>
+</li>
+</ul>
+<h2 id="16-rural-area-classification-dispute" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">16.&nbsp;<strong>Rural Area Classification Dispute</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Village not officially classified as "rural" by PMEGP guidelines</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">No rural area certificate from Tehsildar</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>For Anandpur urf Bandpur</strong>: Ensure it's listed as rural in PMEGP MIS portal</p>
+</li>
+</ul>
+<h2 id="17-land-ownership-disputes" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">17.&nbsp;<strong>Land Ownership Disputes</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Land records (Khatauni) not updated or in dispute</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Family partition issues not resolved</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Agricultural land not converted for industrial use (if required)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>For your 400 gaj plot</strong>: Ensure Bhulekh UP records clearly show your ownership</p>
+</li>
+</ul>
+<h2 id="18-beneficiary-not-reachable" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">18.&nbsp;<strong>Beneficiary Not Reachable</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Wrong phone number in application</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Not responding to bank/KVIC calls for verification</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Not present during physical verification visits</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="how-to-avoid-rejection-action-plan-for-your-cattle" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>How to Avoid Rejection: Action Plan for Your Cattle Feed Unit</strong></h2>
+<h2 id="before-application" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Before Application:</strong></h2>
+<ol class="marker:text-quiet list-decimal pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Get CIBIL Score Checked</strong></p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Ensure score is 700+ (ideal: 750+)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Clear any pending dues or defaults</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">If score is low, wait 6 months after clearing dues</p>
+</li>
+</ul>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Prepare Strong DPR</strong></p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Use realistic financial projections (not overly optimistic)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Ensure DSCR is 1.75-2.0 (not below 1.5)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Show break-even within 24 months</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Highlight employment generation (8+ jobs)</p>
+</li>
+</ul>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Get Proper OBC Certificate</strong></p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Visit Tehsildar/SDM office in Khekra, Baghpat</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Get certificate in UP government prescribed format</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Ensure it mentions: Vill. Anandpur urf Bandpur, Tehsil Khekra, Distt. Baghpat, Caste: Jat (OBC)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Get it notarized and recent (within 3 months)</p>
+</li>
+</ul>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Build Margin Money</strong></p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Keep 5% of project cost (₹2.5 lakh for ₹50 lakh project) in your bank account</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Maintain for at least 3-6 months before application</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Keep source of funds clear (savings, not sudden large deposits)</p>
+</li>
+</ul>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Complete EDP Training</strong></p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Enroll in 2-week EDP course through KVIC/KVIB</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Get certificate before or during application process</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Shows commitment and basic business knowledge</p>
+</li>
+</ul>
+</li>
+</ol>
+<h2 id="during-application" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>During Application:</strong></h2>
+<ol class="marker:text-quiet list-decimal pl-8" start="6">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Choose Right Bank</strong></p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Apply through banks with PMEGP experience in Baghpat</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Preferred banks: SBI (Khekra branch), PNB, Canara Bank, UCO Bank</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Check if bank has achieved PMEGP target (avoid if yes)</p>
+</li>
+</ul>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Complete All Documents</strong></p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Use the comprehensive checklist provided earlier</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Get all documents self-attested properly</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Keep 2-3 sets of photocopies</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Carry originals for verification</p>
+</li>
+</ul>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Fill Application Carefully</strong></p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Double-check all fields before submission</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Ensure consistency between application, DPR, and documents</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Select correct category: OBC (Special Category)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Select correct area: Rural (for 35% subsidy)</p>
+</li>
+</ul>
+</li>
+</ol>
+<h2 id="after-application" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>After Application:</strong></h2>
+<ol class="marker:text-quiet list-decimal pl-8" start="9">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Be Available for Verification</strong></p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Keep phone reachable (9 AM - 8 PM)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Be present at project site during physical verification</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Prepare to explain manufacturing process, raw materials, market</p>
+</li>
+</ul>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Follow Up Regularly</strong></p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Check application status on PMEGP portal every 15 days</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Visit bank branch every 2-3 weeks</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">If rejected, ask for specific reason in writing (bank must provide)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">If reason is unclear, file RTI or email to KVIC/MSME ministry</p>
+</li>
+</ul>
+</li>
+</ol>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="what-to-do-if-your-application-is-rejected" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>What to Do If Your Application is Rejected</strong></h2>
+<h2 id="step-1-get-rejection-reason-in-writing" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Step 1: Get Rejection Reason in Writing</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Banks must provide written rejection reason as per PMEGP guidelines</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Common codes: "Not Viable", "CIBIL not satisfactory", "Unable to deposit own contribution", etc.</p>
+</li>
+</ul>
+<h2 id="step-2-analyze-and-fix-the-issue" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Step 2: Analyze and Fix the Issue</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>If CIBIL issue</strong>: Improve score, clear dues, reapply after 6 months</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>If DPR issue</strong>: Revise projections with CA's help, show better viability</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>If documentation issue</strong>: Complete missing documents, reapply</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>If knowledge issue</strong>: Get more training, hire experienced manager, show tie-ups</p>
+</li>
+</ul>
+<h2 id="step-3-reapply-to-different-bank" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Step 3: Reapply to Different Bank</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">You can apply to maximum 2 banks simultaneously</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">If rejected by one, apply to another with corrections</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Different banks have different risk appetites and local knowledge</p>
+</li>
+</ul>
+<h2 id="step-4-escalate-if-unfair-rejection" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Step 4: Escalate if Unfair Rejection</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Email to KVIC Regional Office (Lucknow for UP)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">File complaint on PMEGP portal grievance section</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Contact District Industries Centre (DIC), Baghpat</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Use RTI to get rejection details if bank doesn't provide</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="success-rate-improvement-tips-for-baghpat-applican" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Success Rate Improvement Tips for Baghpat Applicants</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Factor</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Without Preparation</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">With Preparation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Documentation Complete</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">40% rejection</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&lt;5% rejection</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>CIBIL Score 750+</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">25% rejection</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&lt;2% rejection</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Strong DPR (DSCR 1.8+)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">30% rejection</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&lt;5% rejection</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>EDP Training Done</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">15% rejection</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&lt;3% rejection</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>OBC Certificate Proper</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">20% rejection</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&lt;2% rejection</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Margin Money Ready</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">15% rejection</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&lt;3% rejection</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Overall Approval Chance</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">40-50%</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">85-90%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sticky z-10 h-0">&nbsp;</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="key-takeaway" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Key Takeaway</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">In Baghpat district,&nbsp;<strong>88% of PMEGP rejections are due to documentation and procedural issues, not business viability problems</strong>. By ensuring complete documentation, proper OBC certificate format, realistic DPR, good CIBIL score, and active follow-up, you can significantly improve your approval chances for your solar-powered cattle feed manufacturing unit.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>&nbsp;</div>
+<div class="flex items-center justify-between">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="flex flex-col gap-md @3xl:gap-lg w-full pt-md @3xl:pt-lg">
+<div class="w-full">
+<div class="w-full flex flex-col">
+<div id="radix-_r_46_-content-default" class="focus:outline-none" tabindex="0" data-state="active" data-orientation="horizontal">
+<div class="flex flex-col @3xl:gap-y-lg gap-y-md">
+<div class="bg-base erp-sidecar:pt-0 erp-mobile-sidecar:pt-0">
+<div class="relative z-10">
+<div class="group relative flex items-end gap-0.5">
+<div class="relative min-w-0 flex-1 flex justify-end">
+<div class="flex items-start gap-2">
+<div class="flex shrink-0 items-center gap-1 opacity-0 transition-opacity duration-150 sticky top-sm py-sm pointer-events-none group-hover:pointer-events-auto group-hover:opacity-100 focus-within:pointer-events-auto focus-within:opacity-100">&nbsp;</div>
+<div class="group/title relative inline-flex flex-col">
+<div class="relative">
+<div>
+<div>
+<div>
+<div class="group/query relative whitespace-pre-line !text-wrap break-words [word-break:break-word] font-sans text-base text-foreground selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super">
+<div class="min-w-[48px] select-none p-3 bg-subtle rounded-2xl flex items-center justify-center"><span class="min-w-0 font-sans text-base text-foreground font-normal select-text break-words selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super">right now I am working in private company cyfuture pvt. ltd. would it </span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mt-md">&nbsp;</div>
+<div class="pWvJNd" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">&nbsp;</div>
+<div class="flex flex-col">&nbsp;</div>
+</div>
