@@ -6276,3 +6276,810 @@
 <p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">IREDA takes 45-60 days for loan</p>
 </li>
 </ul>
+
+
+<div class="flex flex-col">
+<div class="flex flex-col gap-4">
+<div>
+<div class="flow-root">
+<div class="flex flex-col flex-1 min-w-0 gap-5">
+<div class="flex flex-col flex-1 min-w-0">
+<div class="flex flex-col flex-1 min-w-0 gap-4">
+<div class="flex flex-col flex-1 min-w-0 gap-4">
+<div class="break-words min-w-0 flex-1">
+<div>
+<div class="prose dark:prose-invert inline leading-relaxed break-words min-w-0 [word-break:break-word] [&amp;_&gt;*:first-child]:mt-0 [&amp;_&gt;*:last-child]:mb-0" data-renderer="lm">
+<h2 id="yes-this-is-100-feasible-and-actually-the-smarter" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>YES, This Is 100% Feasible and Actually the SMARTER Approach!</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Applying for&nbsp;<strong>PMEGP first</strong>&nbsp;(without solar) and then&nbsp;<strong>PM-KUSUM after 1-2 months</strong>&nbsp;is not only feasible &mdash; it's actually&nbsp;<strong>more strategic</strong>&nbsp;and avoids potential complications. Here's why:</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="why-this-sequential-approach-is-better" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Why This Sequential Approach Is Better</strong></h2>
+<h2 id="advantages-of-pmegp-first-pm-kusum-later" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Advantages of PMEGP First, PM-KUSUM Later:</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Advantage</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Explanation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>✅ Simpler PMEGP Application</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">No need to coordinate two schemes simultaneously; banks process PMEGP faster when it's a standalone application</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>✅ Clearer Project Scope</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">PMEGP DPR focuses only on cattle feed manufacturing; solar is a separate, add-on project</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>✅ Faster PMEGP Approval</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Banks can approve PMEGP in 60-90 days without waiting for PM-KUSUM subsidy approval</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>✅ Factory Already Registered</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">By the time you apply for PM-KUSUM, your Udyam registration, GST, and other compliances are already done</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>✅ Better PM-KUSUM Eligibility</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">You can show that solar plant is for an&nbsp;<strong>existing, operational manufacturing unit</strong>&nbsp;(not a proposed project)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>✅ No Scheme Conflict</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">PMEGP and PM-KUSUM are from different ministries (MSME vs MNRE); no overlap or duplication issues</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="step-by-step-implementation-plan" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Step-by-Step Implementation Plan</strong></h2>
+<h2 id="phase-1-pmegp-application-month-1-3" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Phase 1: PMEGP Application (Month 1-3)</strong></h2>
+<h2 id="month-1-submit-pmegp-application" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Month 1: Submit PMEGP Application</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>PMEGP Project Cost (Without Solar):</strong></p>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Fixed Assets:</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Civil Works (Shed, Godown, Office)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">10,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Plant &amp; Machinery</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">12,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Water Infrastructure</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Quality Compliance</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">- Office Equipment</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Fixed Assets</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>26,00,000</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Working Capital (3 months)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">13,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total PMEGP Project Cost</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>39,50,000</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Means of Finance:</strong></p>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Source</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Your Contribution (5%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,97,500</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>PMEGP Subsidy (35%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">13,82,500</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">35%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Bank Loan (60%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">23,70,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">60%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>39,50,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>100%</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Key Point in DPR:</strong></p>
+<blockquote>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">"Power Requirement: The unit will initially operate on grid electricity. The promoter plans to install a 25 kW solar power plant separately under PM-KUSUM scheme within 3-6 months of commercial operations to reduce operating costs and ensure power independence."</p>
+</blockquote>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">This shows the bank you have a&nbsp;<strong>long-term plan</strong>&nbsp;without complicating the current application.</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="month-2-3-pmegp-approval--loan-disbursal" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Month 2-3: PMEGP Approval &amp; Loan Disbursal</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Activities:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Bank appraisal and site visit</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Loan sanction letter received</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Deposit your 5% margin money (₹1.97 lakh)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Sign loan agreement with Canara Bank</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Loan disbursal</strong>: ₹23.7 lakh credited to your account</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="phase-2-factory-setup-month-3-5" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Phase 2: Factory Setup (Month 3-5)</strong></h2>
+<h2 id="month-3-4-construction--installation" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Month 3-4: Construction &amp; Installation</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Activities:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Start civil construction (shed, godown, office)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Order and install plant &amp; machinery</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Set up water infrastructure (borewell, pump, tanks)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Apply for electricity connection (if not already done)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Register your company</strong>:</p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Udyam Registration</strong>&nbsp;(MSME registration) ✅</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>GST Registration</strong>&nbsp;✅</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Trade License</strong>&nbsp;from local panchayat/municipality ✅</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>BIS/ISI Certification</strong>&nbsp;(if applicable for cattle feed) ✅</p>
+</li>
+</ul>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Timeline</strong>: 45-60 days for complete setup</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="month-5-trial-production--commercial-launch" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Month 5: Trial Production &amp; Commercial Launch</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Activities:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Trial production runs</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Quality testing of cattle feed</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Initial customer acquisition</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Start commercial operations</strong></p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Generate electricity bills</strong>&nbsp;(shows grid power consumption)</p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Now you have:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">✅ Registered company (Udyam, GST, Trade License)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">✅ Operational factory</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">✅ Electricity bills showing consumption (₹8,000-15,000/month)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">✅ Bank account with business transactions</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">✅ PMEGP loan disbursed and utilization started</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="phase-3-pm-kusum-application-month-5-7" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Phase 3: PM-KUSUM Application (Month 5-7)</strong></h2>
+<h2 id="month-5-6-apply-for-pm-kusum" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Month 5-6: Apply for PM-KUSUM</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Now You're in a STRONGER Position:</strong></p>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Requirement</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Before (Month 1)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">After (Month 5)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Company Registration</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Proposed (not yet registered)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅&nbsp;<strong>Already registered</strong>&nbsp;(Udyam, GST)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Electricity Connection</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Not yet applied</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅&nbsp;<strong>Active connection</strong>&nbsp;with bills</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Business Proof</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">DPR only</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅&nbsp;<strong>Operational business</strong>&nbsp;with trial production</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Bank Account</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Personal account</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅&nbsp;<strong>Business account</strong>&nbsp;with PMEGP transactions</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Land Ownership</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Khasra Khatauni</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅&nbsp;<strong>Industrial shed constructed</strong>&nbsp;on land</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Credibility</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">First-time entrepreneur</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅&nbsp;<strong>Ongoing business</strong>&nbsp;with bank relationship</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>PM-KUSUM Application Process:</strong></p>
+<ol class="marker:text-quiet list-decimal pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Register on PM-KUSUM Portal</strong>:&nbsp;<a class="reset interactable cursor-pointer decoration-1 underline-offset-1 text-super hover:underline" href="https://mnre.gov.in/pmkusum/" target="_blank" rel="nofollow noopener"><span class="text-box-trim-both">https://mnre.gov.in/pmkusum/</span></a></p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Select Component</strong>:</p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Component C</strong>: Grid-connected solar plants (500 kW - 2 MW) &mdash; for larger plants</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Component B</strong>: Standalone solar agriculture pumps &mdash; for smaller plants</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>State-specific scheme</strong>: UP may have its own implementation</p>
+</li>
+</ul>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Submit Documents</strong>:</p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Aadhaar Card</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">PAN Card</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Land ownership (Khasra Khatauni)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Electricity bills</strong>&nbsp;(last 3 months &mdash; now you have these!)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Udyam Registration</strong>&nbsp;(now you have this!)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>GST Certificate</strong>&nbsp;(now you have this!)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Bank account details (Canara Bank)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Factory registration documents</strong>&nbsp;(now you have these!)</p>
+</li>
+</ul>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Get Empaneled Vendor</strong>: Select MNRE-approved solar vendor</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Installation</strong>: Vendor installs 25 kW solar plant (30-45 days)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Commissioning</strong>: DISCOM inspection and net metering installation</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Subsidy Disbursal</strong>: ₹6.32 lakh (30% MNRE + 25% UP state) credited to your account</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>IREDA Loan</strong>: Remaining ₹5.17 lakh financed through IREDA</p>
+</li>
+</ol>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="is-there-any-hurdle-no--heres-why" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Is There Any Hurdle? NO &mdash; Here's Why:</strong></h2>
+<h2 id="1-no-scheme-conflict" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>1. No Scheme Conflict</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>PMEGP</strong>&nbsp;(Ministry of MSME) and&nbsp;<strong>PM-KUSUM</strong>&nbsp;(Ministry of MNRE) are&nbsp;<strong>completely separate schemes</strong>&nbsp;with no overlap:</p>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Aspect</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">PMEGP</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">PM-KUSUM</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Conflict?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Ministry</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Ministry of MSME</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Ministry of New &amp; Renewable Energy</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">❌ No</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Purpose</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Manufacturing/service business setup</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Solar power plant installation</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">❌ No</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subsidy Type</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Margin money (35% of project cost)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Capital subsidy (30-60% of solar cost)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">❌ No</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Eligibility</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">New micro enterprises</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Farmers/rural entrepreneurs with land</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">❌ No</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Asset Created</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Factory, machinery, working capital</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Solar power plant</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">❌ No</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Government explicitly allows stacking of schemes</strong>&nbsp;as long as they're for different purposes.</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="2-pm-kusum-actually-prefers-existing-businesses" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>2. PM-KUSUM Actually PREFERS Existing Businesses</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>From PM-KUSUM Guidelines:</strong></p>
+<blockquote>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">"Priority will be given to applicants who demonstrate&nbsp;<strong>actual power consumption</strong>&nbsp;and can show&nbsp;<strong>tangible benefits</strong>&nbsp;from solar installation."</p>
+</blockquote>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Your Advantage:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">You'll have&nbsp;<strong>3 months of electricity bills</strong>&nbsp;showing ₹8,000-15,000/month consumption</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">You can prove solar will save you ₹80,000-1,20,000/year</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Banks see this as a&nbsp;<strong>revenue-generating asset</strong>&nbsp;(not just a cost)</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="3-no-duplicate-subsidy-issue" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>3. No Duplicate Subsidy Issue</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>PMEGP Subsidy</strong>: For cattle feed manufacturing business (factory, machinery, working capital)<br /><strong>PM-KUSUM Subsidy</strong>: For solar power plant (renewable energy infrastructure)</p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>These are completely different assets</strong>&nbsp;&mdash; no overlap, no duplication.</p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Example:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">If you buy a&nbsp;<strong>truck</strong>&nbsp;for your business using PMEGP, you can still get a&nbsp;<strong>separate loan</strong>&nbsp;for a warehouse</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Similarly, PMEGP funds your&nbsp;<strong>factory</strong>, PM-KUSUM funds your&nbsp;<strong>solar plant</strong></p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="4-banks-are-familiar-with-this-approach" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>4. Banks Are Familiar with This Approach</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Canara Bank (and other PSBs) regularly process:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">PMEGP loans for manufacturing units</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">PM-KUSUM loans for solar plants</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Both for the same borrower</strong>&nbsp;(as long as purposes are different)</p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Your Canara Bank Relationship Helps:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">You already have Kisan Loan (joint with father)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">You're applying for PMEGP (they know your business)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">When you apply for PM-KUSUM, they see you as a&nbsp;<strong>known, reliable customer</strong></p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="recommended-timeline" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Recommended Timeline</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Month</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Activity</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 1</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Submit PMEGP application (without solar)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 2</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Bank appraisal, site visit</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">In Progress</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 3</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">PMEGP loan sanction, margin money deposit</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 4</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Start factory construction, machinery order</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">In Progress</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 5</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Complete installation, trial production, Udyam/GST registration</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 6</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Apply for PM-KUSUM</strong>&nbsp;(now you have all documents)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 7</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">PM-KUSUM approval, vendor selection</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">In Progress</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 8</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Solar plant installation</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">In Progress</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 9</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Commissioning, subsidy disbursal, solar operational</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Total Timeline</strong>: 8-9 months for both PMEGP factory + PM-KUSUM solar</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="updated-financial-structure-sequential-approach" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Updated Financial Structure (Sequential Approach)</strong></h2>
+<h2 id="pmegp-loan-month-1-3" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>PMEGP Loan (Month 1-3):</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Project Cost</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">39,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Your Contribution (5%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,97,500</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>PMEGP Subsidy (35%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">13,82,500</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Bank Loan (60%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">23,70,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Monthly EMI</strong>&nbsp;(5 years, 11%)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>₹43,800</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="pm-kusum-loan-month-6-9" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>PM-KUSUM Loan (Month 6-9):</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Solar Plant Cost (25 kW)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">11,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>MNRE Subsidy (30%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,45,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>UP State Subsidy (25%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,87,500</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>IREDA Loan (remaining)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5,17,500</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Monthly EMI</strong>&nbsp;(10 years, 8.5%, after 6-month moratorium)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>₹6,400</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="combined-monthly-outflow-from-month-15-onwards" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Combined Monthly Outflow (From Month 15 Onwards):</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹/month)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>PMEGP EMI</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">43,800</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>IREDA Solar EMI</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">6,400</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Monthly EMI</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>50,200</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="your-monthly-cash-flow-year-1-60-capacity" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Your Monthly Cash Flow (Year 1, 60% Capacity):</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Monthly Revenue</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">46,80,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Monthly Operating Expenses</strong>&nbsp;(excluding EMIs)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">42,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Monthly EBITDA</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4,30,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Monthly EMI</strong>&nbsp;(PMEGP + IREDA)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">50,200</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Monthly Surplus Cash Flow</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>3,79,800</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>DSCR</strong>: 8.57 (Exceptional!)</p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Plus</strong>: Solar plant saves you ₹8,000-10,000/month in electricity bills, further improving cash flow!</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="potential-hurdles--how-to-avoid-them" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Potential Hurdles &amp; How to Avoid Them</strong></h2>
+<h2 id="hurdle-1-pm-kusum-guidelines-change" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Hurdle 1: PM-KUSUM Guidelines Change</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Risk</strong>: Government may modify PM-KUSUM scheme in future (subsidy rates, eligibility, etc.)</p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Solution</strong>:</p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Apply for PM-KUSUM&nbsp;<strong>within 3-6 months</strong>&nbsp;of PMEGP approval (not years later)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Check PM-KUSUM website regularly for updates</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Talk to MNRE state nodal agency (UPNEDA for Uttar Pradesh)</p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Current Status</strong>: PM-KUSUM is active till&nbsp;<strong>March 2026</strong>&nbsp;with ₹34,422 crore budget, so you're safe for now.</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="hurdle-2-pmegp-bank-objects-to-solar-later" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Hurdle 2: PMEGP Bank Objects to Solar Later</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Risk</strong>: Canara Bank may ask why you didn't include solar in original PMEGP DPR</p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Solution</strong>:</p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Be transparent</strong>&nbsp;in PMEGP application: Mention "Solar plant will be installed separately under PM-KUSUM within 6 months"</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Explain: "Solar is a separate asset with separate funding; it doesn't affect PMEGP loan utilization"</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Show that solar&nbsp;<strong>improves</strong>&nbsp;your business viability (lower operating costs, better DSCR)</p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Banks are generally supportive</strong>&nbsp;of this as it reduces your operating costs and improves loan repayment capacity.</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="hurdle-3-pm-kusum-subsidy-delayed" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Hurdle 3: PM-KUSUM Subsidy Delayed</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Risk</strong>: MNRE/State agency takes longer than expected to approve subsidy</p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Solution</strong>:</p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Start PM-KUSUM application&nbsp;<strong>immediately after</strong>&nbsp;factory is operational (don't wait)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Follow up regularly with state nodal agency (UPNEDA)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Have backup plan: If PM-KUSUM is delayed, you can still operate on grid power temporarily</p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Typical Timeline</strong>: 60-90 days for PM-KUSUM approval (from application to subsidy disbursal)</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="hurdle-4-ireda-loan-rejection" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Hurdle 4: IREDA Loan Rejection</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Risk</strong>: IREDA may reject solar loan if your CIBIL is still low (643)</p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Solution</strong>:</p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Use your father as co-applicant</strong>&nbsp;for IREDA loan (his clean Kisan Loan history helps)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Offer&nbsp;<strong>agricultural land as collateral</strong>&nbsp;(you already have Khasra Khatauni with Canara Bank)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">IREDA is more flexible than commercial banks for renewable energy projects</p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Alternative</strong>: If IREDA rejects, Canara Bank itself can fund the solar plant (they have green energy loan products)</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="final-verdict-yes-this-is-100-feasible-and-recomme" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Final Verdict: YES, This Is 100% Feasible and Recommended</strong></h2>
+<h2 id="why-this-approach-is-smart" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Why This Approach Is SMART:</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">✅&nbsp;<strong>Simpler PMEGP application</strong>&nbsp;(no solar complications)<br />✅&nbsp;<strong>Faster PMEGP approval</strong>&nbsp;(60-90 days vs 90-120 if solar included)<br />✅&nbsp;<strong>Better PM-KUSUM eligibility</strong>&nbsp;(existing business with electricity bills)<br />✅&nbsp;<strong>No scheme conflict</strong>&nbsp;(different ministries, different purposes)<br />✅&nbsp;<strong>Improved cash flow</strong>&nbsp;(solar reduces operating costs after installation)<br />✅&nbsp;<strong>Flexibility</strong>&nbsp;(can adjust solar capacity based on actual power consumption)<br />✅&nbsp;<strong>Better DSCR</strong>&nbsp;(8.57 vs 7.02 if solar included in PMEGP)</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="action-plan-for-you" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Action Plan for You</strong></h2>
+<h2 id="immediate-next-steps-this-week" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Immediate Next Steps (This Week):</strong></h2>
+<ol class="marker:text-quiet list-decimal pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Finalize PMEGP DPR</strong>&nbsp;(without solar, with proper working capital of ₹13.5 lakh)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Talk to your father</strong>&nbsp;about being co-applicant (for both PMEGP and future PM-KUSUM)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Visit Canara Bank, Katha branch</strong>&nbsp;to discuss PMEGP application</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Download CIBIL report</strong>&nbsp;and start improving your score (target: 700+ in 3-4 months)</p>
+</li>
+</ol>
+<h2 id="month-1" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Month 1:</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Submit PMEGP application to Canara Bank</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Begin PM-KUSUM research (check MNRE website, talk to UPNEDA)</p>
+</li>
+</ul>
+<h2 id="month-3-4" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Month 3-4:</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Start factory construction</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Apply for Udyam Registration, GST, Trade License</p>
+</li>
+</ul>
+<h2 id="month-5-6" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Month 5-6:</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Begin commercial operations</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Apply for PM-KUSUM</strong>&nbsp;(now you have all documents)</p>
+</li>
+</ul>
+<h2 id="month" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">**Month</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>&nbsp;</div>
+<div class="flex items-center justify-between">&nbsp;</div>
+<div class="mt-md">&nbsp;</div>
