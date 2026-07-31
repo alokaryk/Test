@@ -5427,317 +5427,852 @@
 </div>
 
 
-Excellent Idea! YES, You Can Get Solar Plant from Separate Government Schemes
-This is a brilliant strategy that will free up ₹11.5 lakh in your PMEGP loan for working capital. Let me show you the available schemes and how to structure this:
-
-Available Solar Power Plant Schemes (Separate from PMEGP)
-Option 1: PM-KUSUM Scheme (Best for Your Case)
-Scheme Details:
-
-Full Name: Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan
-
-Launched by: Ministry of New & Renewable Energy (MNRE)
-
-Subsidy: 30-60% of solar plant cost
-
-Eligibility: Farmers, rural entrepreneurs, MSMEs in agricultural/rural areas
-
-Your Eligibility: ✅ Yes (Vill. Anandpur urf Bandpur is rural, you own agricultural land)
-
-Component C (Grid-Connected Solar Plants for Rural Areas):
-
-Subsidy: 30% of project cost (general category) / 50% (NE & special states)
-
-Additional Support: 30% loan from banks at concessional rates
-
-Your Share: Only 40% of total cost!
-
-For Your 25 kW Solar Plant:
-
-Component	Amount (₹)
-Total Project Cost (25 kW @ ₹46,000/kW)	11,50,000
-MNRE Subsidy (30%)	3,45,000
-Bank Loan (30% concessional)	3,45,000
-Your Contribution (40%)	4,60,000
-Net Cost to You	4,60,000 (instead of ₹11.5 lakh)
-Savings	₹6,90,000 ✅
-Option 2: Grid-Connected Rooftop Solar Programme (MNRE)
-Scheme Details:
-
-Subsidy: 40% for first 3 kW + 20% for capacity above 3 kW (up to 10 kW)
-
-For capacities above 10 kW: 10% of project cost (as procurement-based incentive)
-
-Eligibility: Residential, commercial, industrial, institutional consumers
-
-Your Eligibility: ✅ Yes (industrial shed for cattle feed unit)
-
-For Your 25 kW Solar Plant:
-
-Component	Amount (₹)
-Total Project Cost	11,50,000
-Subsidy (10% for >10 kW capacity)	1,15,000
-Net Cost to You	10,35,000
-Savings	₹1,15,000
-This is less beneficial than PM-KUSUM, but still helpful.
-
-Option 3: UP State Solar Policy (Uttar Pradesh New & Renewable Energy Development Agency)
-Uttar Pradesh State Incentives:
-
-Capital Subsidy: 25-35% of project cost for industrial consumers
-
-Additional Benefits:
-
-Stamp duty exemption on land purchase for solar installation
-
-Electricity duty exemption for 5-7 years
-
-Fast-track approval process
-
-For Your 25 kW Solar Plant:
-
-Component	Amount (₹)
-Total Project Cost	11,50,000
-UP State Subsidy (25%)	2,87,500
-Net Cost to You	8,62,500
-Savings	₹2,87,500
-Option 4: IREDA Solar Loan (Indian Renewable Energy Development Agency)
-Scheme Details:
-
-Loan Type: 100% financing for solar projects
-
-Interest Rate: 8-9% (lower than regular bank loans)
-
-Tenure: 10-15 years (very long tenure)
-
-Moratorium: 6-12 months (no EMI during initial period)
-
-Collateral: Solar plant itself (no additional security needed)
-
-For Your 25 kW Solar Plant:
-
-Component	Amount (₹)
-Total Project Cost	11,50,000
-IREDA Loan (100%)	11,50,000
-Your Contribution	0 (but you repay with interest)
-Monthly EMI (10 years @ 8.5%)	₹14,200/month
-This doesn't reduce upfront cost, but spreads payment over 10 years at low interest.
-
-Option 5: Combination Approach (BEST STRATEGY)
-Stack Multiple Schemes for Maximum Benefit:
-
-Scheme	Subsidy (₹)	Your Cost (₹)
-PM-KUSUM (30% MNRE subsidy)	3,45,000	8,05,000
-UP State Solar Policy (25% additional)	2,87,500	5,17,500
-IREDA Loan (remaining amount)	5,17,500 (loan)	0 upfront
-Total Subsidy	6,32,500	
-Net Cost to You		0 upfront, repay ₹5.17L loan over 10 years
-Monthly EMI on IREDA Loan:
-
-Principal: ₹5,17,500
-
-Interest: 8.5% per annum
-
-Tenure: 10 years
-
-Monthly EMI: ₹6,400 (very manageable!)
-
-Revised Project Structure (Solar from Separate Scheme)
-PMEGP Project (Excluding Solar):
-Component	Amount (₹)	% of Total
-A. Fixed Assets (Excluding Solar)		
-1. Civil Works (Shed, Godown, Office - 2,500 sq.ft)	10,00,000	38.5%
-2. Plant & Machinery (1 MT/hour capacity)	12,00,000	46.2%
-3. Water Infrastructure	1,50,000	5.8%
-4. Quality Compliance	1,50,000	5.8%
-5. Office Equipment & Furniture	1,00,000	3.8%
-Subtotal Fixed Assets	26,00,000	100%
-B. Working Capital (3 months)		
-1. Raw Materials	10,80,000	80%
-2. Wages & Salaries	1,35,000	10%
-3. Utilities (grid power, since solar is separate)	1,00,000	7.4%
-4. Other Expenses	35,000	2.6%
-Subtotal Working Capital	13,50,000	100%
-Total PMEGP Project Cost	39,50,000	100%
-PMEGP Means of Finance (OBC Rural, 35% Subsidy):
-Source	Amount (₹)	%
-Your Contribution (5%)	1,97,500	5%
-PMEGP Subsidy (35%)	13,82,500	35%
-Bank Loan (60%)	23,70,000	60%
-Total	39,50,000	100%
-Separate Solar Project (PM-KUSUM + UP State + IREDA):
-Source	Amount (₹)
-Total Solar Cost (25 kW)	11,50,000
-MNRE Subsidy (30%)	-3,45,000
-UP State Subsidy (25%)	-2,87,500
-IREDA Loan (remaining)	5,17,500
-Your Upfront Cost	0
-IREDA Monthly EMI (10 years @ 8.5%)	₹6,400/month
-Combined Financial Viability
-Total Monthly Outflow:
-Component	Amount (₹/month)
-PMEGP Loan EMI (₹23.7L, 5 years, 11%)	43,800
-IREDA Solar Loan EMI (₹5.17L, 10 years, 8.5%)	6,400
-Total Monthly EMI	50,200
-Your Monthly Cash Flow (Year 1, 60% Capacity):
-Component	Amount (₹)
-Monthly Revenue (₹5.61 crore / 12)	46,80,000
-Monthly Operating Expenses (excluding EMIs)	42,50,000
-Monthly EBITDA	4,30,000
-Total Monthly EMI (PMEGP + IREDA)	50,200
-Monthly Surplus Cash Flow	3,79,800
-DSCR Calculation:
-
-DSCR
-=
-Monthly EBITDA
-Total Monthly EMI
-=
-4
-,
-30
-,
-000
-50
-,
-200
-=
-8.57
-DSCR= 
-Total Monthly EMI
-Monthly EBITDA
-​
- = 
-50,200
-4,30,000
-​
- =8.57
-This is EXCEPTIONAL! Even better than your original 7.02 DSCR!
-
-Benefits of This Approach
-1. Working Capital Increased from ₹3 Lakh to ₹13.5 Lakh ✅
-4.5x increase in operational runway
-
-Covers 3 months of raw materials, wages, and utilities
-
-No more production stoppages due to cash crunch
-
-2. PMEGP Loan Reduced from ₹28.8 Lakh to ₹23.7 Lakh ✅
-₹5.1 lakh lower loan burden
-
-Lower monthly EMI (₹43,800 vs ₹53,000 if solar was included)
-
-Better DSCR (8.57 vs 7.02)
-
-3. Solar Plant Cost Reduced from ₹11.5 Lakh to ₹0 Upfront ✅
-100% funded through subsidies (₹6.32L) + IREDA loan (₹5.17L)
-
-Only repay ₹6,400/month for 10 years
-
-Solar plant pays for itself through electricity savings
-
-4. Better Bank Approval Chances ✅
-Proper working capital (34% of project cost, industry standard is 25-35%)
-
-Lower loan-to-value ratio (60% instead of skewed structure)
-
-Higher DSCR (8.57 is exceptional)
-
-Shows sophisticated financial planning
-
-How to Apply for PM-KUSUM + UP State Solar Subsidy
-Step 1: Register on PM-KUSUM Portal
-Visit: https://mnre.gov.in/solar/current-status/
-
-Click on "PM-KUSUM" scheme
-
-Register as a beneficiary (farmer/rural entrepreneur category)
-
-Fill online application form
-
-Step 2: Submit Required Documents
-Document	Details
-Land Ownership Proof	Khasra Khatauni (you already have this)
-Aadhaar Card	Self-attested copy
-PAN Card	Self-attested copy
-Bank Account Details	Passbook copy (Canara Bank, Katha branch)
-Electricity Bill	Latest bill (or NOC if new connection)
-Project Proposal	Basic details of 25 kW solar plant for cattle feed unit
-Udyam Registration	MSME registration (you'll get this for PMEGP anyway)
-Step 3: Get Empaneled Vendor
-PM-KUSUM requires installation through MNRE-empaneled vendors
-
-List of vendors: https://irecda.org/ or MNRE website
-
-Get quotations from 2-3 vendors
-
-Select vendor and sign agreement
-
-Step 4: Installation & Commissioning
-Vendor installs 25 kW solar plant (timeline: 30-45 days)
-
-Inspection by DISCOM (local electricity distribution company)
-
-Net metering installation (if grid-connected)
-
-Commissioning certificate issued
-
-Step 5: Subsidy Disbursal
-Subsidy (₹6.32 lakh) directly credited to your bank account
-
-IREDA loan disbursed to vendor for remaining cost
-
-You start repaying IREDA loan after 6-month moratorium
-
-Timeline for Both Applications
-Month	PMEGP Application	Solar Application
-Month 1	Submit PMEGP application to Canara Bank	Apply for PM-KUSUM + UP State subsidy
-Month 2	Bank appraisal, site visit	Vendor selection, agreement signing
-Month 3	Loan sanction letter	Solar plant installation
-Month 4	Margin money deposit, loan disbursal	Commissioning, inspection
-Month 5	Start construction, machinery order	Subsidy disbursal, IREDA loan activation
-Month 6	Installation complete, trial production	Solar plant operational
-Month 7	Commercial production begins	Electricity savings start
-Is This Realistic? YES! Here's Why:
-1. Precedents: Many MSMEs Use This Approach
-Solar + PMEGP combination is common in agriculture processing units
-
-MNRE actively promotes this for rural MSMEs
-
-Banks are familiar with this structure
-
-2. You Meet All Eligibility Criteria
-Criteria	Requirement	Your Status
-Location	Rural area	✅ Vill. Anandpur urf Bandpur
-Land Ownership	Own land for installation	✅ 400 gaj plot + agricultural land
-Category	Farmer/rural entrepreneur	✅ OBC, agricultural land owner
-Business Type	MSME in agro-processing	✅ Cattle feed manufacturing
-Bank Account	Active bank account	✅ Canara Bank, Katha (joint Kisan Loan)
-3. Financial Viability Is Strong
-DSCR of 8.57 is exceptional (banks require minimum 1.5)
-
-Working capital of 34% is industry standard
-
-Solar EMI of ₹6,400/month is easily covered by electricity savings (₹8,000-10,000/month)
-
-4. Government Actively Promotes This
-PM-KUSUM was launched specifically for farmers and rural entrepreneurs
-
-UP State Solar Policy incentivizes industrial solar installations
-
-IREDA provides concessional loans for renewable energy projects
-
-Potential Challenges & Solutions
-Challenge 1: Coordination Between Two Schemes
-Solution:
-
-Apply for PM-KUSUM first (takes 2-3 months for approval)
-
-Once solar subsidy is approved, apply for PMEGP
-
-Mention in PMEGP DPR: "Solar power plant funded separately through PM-KUSUM scheme"
-
-Challenge 2: IREDA Loan Processing Time
-Solution:
-
-IREDA takes 45-60 days for loan
+<h2 id="excellent-idea-yes-you-can-get-solar-plant-from-se" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Excellent Idea! YES, You Can Get Solar Plant from Separate Government Schemes</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">This is a <strong>brilliant strategy</strong> that will free up ₹11.5 lakh in your PMEGP loan for working capital. Let me show you the available schemes and how to structure this:</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="available-solar-power-plant-schemes-separate-from" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Available Solar Power Plant Schemes (Separate from PMEGP)</strong></h2>
+<h2 id="option-1-pm-kusum-scheme-best-for-your-case" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Option 1: PM-KUSUM Scheme (Best for Your Case)</strong><span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.rear.org.in/schemes"><span class="group/trigger inline-flex min-w-0" data-state="closed"><span class="citation inline"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">rear.org</span><span class="inline-block ml-xs mr-px !mt-0 ![vertical-align:unset]"><span class="opacity-50">+2</span></span></span></span></span></span></span></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Scheme Details:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Full Name</strong>: Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Launched by</strong>: Ministry of New &amp; Renewable Energy (MNRE)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Subsidy</strong>: <strong>30-60%</strong> of solar plant cost</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Eligibility</strong>: Farmers, rural entrepreneurs, MSMEs in agricultural/rural areas</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Your Eligibility</strong>: ✅ Yes (Vill. Anandpur urf Bandpur is rural, you own agricultural land)</p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Component C (Grid-Connected Solar Plants for Rural Areas):</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Subsidy</strong>: 30% of project cost (general category) / 50% (NE &amp; special states)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Additional Support</strong>: 30% loan from banks at concessional rates</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Your Share</strong>: Only 40% of total cost!</p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>For Your 25 kW Solar Plant:</strong></p>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Project Cost</strong> (25 kW @ ₹46,000/kW)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">11,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>MNRE Subsidy (30%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,45,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Bank Loan (30% concessional)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,45,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Your Contribution (40%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4,60,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Net Cost to You</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>4,60,000</strong> (instead of ₹11.5 lakh)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Savings</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>₹6,90,000</strong> ✅</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="option-2-grid-connected-rooftop-solar-programme-mn" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Option 2: Grid-Connected Rooftop Solar Programme (MNRE)</strong><span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911485"><span class="group/trigger inline-flex min-w-0" data-state="closed"><span class="citation inline"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">pib.gov</span><span class="inline-block ml-xs mr-px !mt-0 ![vertical-align:unset]"><span class="opacity-50">+3</span></span></span></span></span></span></span></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Scheme Details:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Subsidy</strong>: 40% for first 3 kW + 20% for capacity above 3 kW (up to 10 kW)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>For capacities above 10 kW</strong>: 10% of project cost (as procurement-based incentive)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Eligibility</strong>: Residential, commercial, industrial, institutional consumers</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Your Eligibility</strong>: ✅ Yes (industrial shed for cattle feed unit)</p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>For Your 25 kW Solar Plant:</strong></p>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Project Cost</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">11,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subsidy (10% for &gt;10 kW capacity)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,15,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Net Cost to You</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>10,35,000</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Savings</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>₹1,15,000</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>This is less beneficial than PM-KUSUM, but still helpful.</strong></p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="option-3-up-state-solar-policy-uttar-pradesh-new" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Option 3: UP State Solar Policy (Uttar Pradesh New &amp; Renewable Energy Development Agency)</strong><span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.india.gov.in/category/infrastructure-industries/subcategory/infrastructure/details/schemes-for-solar-energy-by-ministry-of-new-and-renewable-energy"><span class="group/trigger inline-flex min-w-0" data-state="closed"><span class="citation inline"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">india.gov</span><span class="inline-block ml-xs mr-px !mt-0 ![vertical-align:unset]"><span class="opacity-50">+3</span></span></span></span></span></span></span></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Uttar Pradesh State Incentives:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Capital Subsidy</strong>: 25-35% of project cost for industrial consumers</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Additional Benefits</strong>:</p>
+<ul class="marker:text-quiet list-disc">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Stamp duty exemption on land purchase for solar installation</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Electricity duty exemption for 5-7 years</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Fast-track approval process</p>
+</li>
+</ul>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>For Your 25 kW Solar Plant:</strong></p>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Project Cost</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">11,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>UP State Subsidy (25%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,87,500</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Net Cost to You</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>8,62,500</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Savings</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>₹2,87,500</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="option-4-ireda-solar-loan-indian-renewable-energy" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Option 4: IREDA Solar Loan (Indian Renewable Energy Development Agency)</strong><span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.ireda.in/solar-energy"><span class="inline-flex" data-state="closed"><span class="citation inline"><a class="inline-flex max-w-full min-w-0" href="https://www.ireda.in/solar-energy" target="_blank" rel="noopener"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">ireda</span></span></span></a></span></span></span></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Scheme Details:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Loan Type</strong>: 100% financing for solar projects</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Interest Rate</strong>: 8-9% (lower than regular bank loans)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Tenure</strong>: 10-15 years (very long tenure)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Moratorium</strong>: 6-12 months (no EMI during initial period)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Collateral</strong>: Solar plant itself (no additional security needed)</p>
+</li>
+</ul>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>For Your 25 kW Solar Plant:</strong></p>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Project Cost</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">11,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>IREDA Loan (100%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">11,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Your Contribution</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>0</strong> (but you repay with interest)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Monthly EMI</strong> (10 years @ 8.5%)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>₹14,200/month</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>This doesn't reduce upfront cost, but spreads payment over 10 years at low interest.</strong></p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="option-5-combination-approach-best-strategy" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Option 5: Combination Approach (BEST STRATEGY)</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Stack Multiple Schemes for Maximum Benefit:</strong></p>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Scheme</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Subsidy (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Your Cost (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>PM-KUSUM (30% MNRE subsidy)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,45,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">8,05,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>UP State Solar Policy (25% additional)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,87,500</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5,17,500</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>IREDA Loan (remaining amount)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5,17,500 (loan)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">0 upfront</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Subsidy</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>6,32,500</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Net Cost to You</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>0 upfront, repay ₹5.17L loan over 10 years</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Monthly EMI on IREDA Loan:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Principal: ₹5,17,500</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Interest: 8.5% per annum</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Tenure: 10 years</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Monthly EMI</strong>: ₹6,400 (very manageable!)</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="revised-project-structure-solar-from-separate-sche" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Revised Project Structure (Solar from Separate Scheme)</strong></h2>
+<h2 id="pmegp-project-excluding-solar" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>PMEGP Project (Excluding Solar):</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">% of Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>A. Fixed Assets (Excluding Solar)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1. Civil Works (Shed, Godown, Office - 2,500 sq.ft)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">10,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">38.5%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2. Plant &amp; Machinery (1 MT/hour capacity)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">12,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">46.2%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3. Water Infrastructure</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5.8%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4. Quality Compliance</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5.8%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5. Office Equipment &amp; Furniture</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3.8%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Fixed Assets</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>26,00,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>100%</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>B. Working Capital (3 months)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1. Raw Materials</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">10,80,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">80%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2. Wages &amp; Salaries</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,35,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">10%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3. Utilities (grid power, since solar is separate)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">7.4%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4. Other Expenses</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">35,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2.6%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal Working Capital</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>13,50,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>100%</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total PMEGP Project Cost</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>39,50,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>100%</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="pmegp-means-of-finance-obc-rural-35-subsidy" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>PMEGP Means of Finance (OBC Rural, 35% Subsidy):</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Source</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Your Contribution (5%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,97,500</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>PMEGP Subsidy (35%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">13,82,500</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">35%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Bank Loan (60%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">23,70,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">60%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>39,50,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>100%</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="separate-solar-project-pm-kusum--up-state--ireda" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Separate Solar Project (PM-KUSUM + UP State + IREDA):</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Source</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Solar Cost (25 kW)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">11,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>MNRE Subsidy (30%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">-3,45,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>UP State Subsidy (25%)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">-2,87,500</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>IREDA Loan (remaining)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5,17,500</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Your Upfront Cost</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>0</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>IREDA Monthly EMI</strong> (10 years @ 8.5%)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>₹6,400/month</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="combined-financial-viability" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Combined Financial Viability</strong></h2>
+<h2 id="total-monthly-outflow" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Total Monthly Outflow:</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹/month)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>PMEGP Loan EMI</strong> (₹23.7L, 5 years, 11%)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">43,800</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>IREDA Solar Loan EMI</strong> (₹5.17L, 10 years, 8.5%)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">6,400</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Monthly EMI</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>50,200</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="your-monthly-cash-flow-year-1-60-capacity" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Your Monthly Cash Flow (Year 1, 60% Capacity):</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Monthly Revenue</strong> (₹5.61 crore / 12)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">46,80,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Monthly Operating Expenses</strong> (excluding EMIs)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">42,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Monthly EBITDA</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4,30,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Monthly EMI</strong> (PMEGP + IREDA)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">50,200</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Monthly Surplus Cash Flow</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>3,79,800</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>DSCR Calculation:</strong></p>
+<div class="overflow-x-auto">
+<div><span class="katex-display"><span class="katex"><span class="katex-mathml">DSCR=Monthly&nbsp;EBITDATotal&nbsp;Monthly&nbsp;EMI=4,30,00050,200=8.57\text{DSCR} = \frac{\text{Monthly EBITDA}}{\text{Total Monthly EMI}} = \frac{4,30,000}{50,200} = 8.57</span><span class="katex-html"><span class="base"><span class="mord text"><span class="mord">DSCR</span></span><span class="mrel">=</span></span><span class="base"><span class="mord"><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist"><span class="mord"><span class="mord text"><span class="mord">Total&nbsp;Monthly&nbsp;EMI</span></span></span><span class="mord"><span class="mord text"><span class="mord">Monthly&nbsp;EBITDA</span></span></span></span><span class="vlist-s"></span></span></span></span></span><span class="mrel">=</span></span><span class="base"><span class="mord"><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist"><span class="mord"><span class="mord">50</span><span class="mpunct">,</span><span class="mord">200</span></span><span class="mord"><span class="mord">4</span><span class="mpunct">,</span><span class="mord">30</span><span class="mpunct">,</span><span class="mord">000</span></span></span><span class="vlist-s"></span></span></span></span></span><span class="mrel">=</span></span><span class="base"><span class="mord">8.57</span></span></span></span></span></div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>This is EXCEPTIONAL! Even better than your original 7.02 DSCR!</strong></p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="benefits-of-this-approach" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Benefits of This Approach</strong></h2>
+<h2 id="1-working-capital-increased-from-3-lakh-to-135-lak" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>1. Working Capital Increased from ₹3 Lakh to ₹13.5 Lakh</strong> ✅</h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>4.5x increase</strong> in operational runway</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Covers <strong>3 months of raw materials, wages, and utilities</strong></p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">No more production stoppages due to cash crunch</p>
+</li>
+</ul>
+<h2 id="2-pmegp-loan-reduced-from-288-lakh-to-237-lakh" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>2. PMEGP Loan Reduced from ₹28.8 Lakh to ₹23.7 Lakh</strong> ✅</h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>₹5.1 lakh lower</strong> loan burden</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Lower monthly EMI (₹43,800 vs ₹53,000 if solar was included)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Better DSCR (8.57 vs 7.02)</p>
+</li>
+</ul>
+<h2 id="3-solar-plant-cost-reduced-from-115-lakh-to-0-upfr" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>3. Solar Plant Cost Reduced from ₹11.5 Lakh to ₹0 Upfront</strong> ✅</h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>100% funded</strong> through subsidies (₹6.32L) + IREDA loan (₹5.17L)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Only repay ₹6,400/month for 10 years</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Solar plant pays for itself through electricity savings</p>
+</li>
+</ul>
+<h2 id="4-better-bank-approval-chances" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>4. Better Bank Approval Chances</strong> ✅</h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Proper working capital (34% of project cost, industry standard is 25-35%)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Lower loan-to-value ratio (60% instead of skewed structure)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Higher DSCR (8.57 is exceptional)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Shows sophisticated financial planning</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="how-to-apply-for-pm-kusum--up-state-solar-subsidy" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>How to Apply for PM-KUSUM + UP State Solar Subsidy</strong></h2>
+<h2 id="step-1-register-on-pm-kusum-portal" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Step 1: Register on PM-KUSUM Portal</strong></h2>
+<ol class="marker:text-quiet list-decimal pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Visit: <a class="reset interactable cursor-pointer decoration-1 underline-offset-1 text-super hover:underline" href="https://mnre.gov.in/solar/current-status/" target="_blank" rel="nofollow noopener"><span class="text-box-trim-both">https://mnre.gov.in/solar/current-status/</span></a></p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Click on "PM-KUSUM" scheme</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Register as a beneficiary (farmer/rural entrepreneur category)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Fill online application form</p>
+</li>
+</ol>
+<h2 id="step-2-submit-required-documents" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Step 2: Submit Required Documents</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Document</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Land Ownership Proof</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Khasra Khatauni (you already have this)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Aadhaar Card</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Self-attested copy</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>PAN Card</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Self-attested copy</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Bank Account Details</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Passbook copy (Canara Bank, Katha branch)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Electricity Bill</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Latest bill (or NOC if new connection)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Project Proposal</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Basic details of 25 kW solar plant for cattle feed unit</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Udyam Registration</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">MSME registration (you'll get this for PMEGP anyway)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="step-3-get-empaneled-vendor" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Step 3: Get Empaneled Vendor</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">PM-KUSUM requires installation through <strong>MNRE-empaneled vendors</strong></p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">List of vendors: <a class="reset interactable cursor-pointer decoration-1 underline-offset-1 text-super hover:underline" href="https://irecda.org/" target="_blank" rel="nofollow noopener"><span class="text-box-trim-both">https://irecda.org/</span></a> or MNRE website</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Get quotations from 2-3 vendors</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Select vendor and sign agreement</p>
+</li>
+</ul>
+<h2 id="step-4-installation--commissioning" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Step 4: Installation &amp; Commissioning</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Vendor installs 25 kW solar plant (timeline: 30-45 days)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Inspection by DISCOM (local electricity distribution company)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Net metering installation (if grid-connected)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Commissioning certificate issued</p>
+</li>
+</ul>
+<h2 id="step-5-subsidy-disbursal" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Step 5: Subsidy Disbursal</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Subsidy (₹6.32 lakh) directly credited to your bank account</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">IREDA loan disbursed to vendor for remaining cost</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">You start repaying IREDA loan after 6-month moratorium</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="timeline-for-both-applications" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Timeline for Both Applications</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Month</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">PMEGP Application</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Solar Application</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 1</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Submit PMEGP application to Canara Bank</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Apply for PM-KUSUM + UP State subsidy</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 2</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Bank appraisal, site visit</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Vendor selection, agreement signing</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 3</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Loan sanction letter</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Solar plant installation</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 4</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Margin money deposit, loan disbursal</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Commissioning, inspection</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 5</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Start construction, machinery order</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Subsidy disbursal, IREDA loan activation</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 6</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Installation complete, trial production</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Solar plant operational</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Month 7</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Commercial production begins</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Electricity savings start</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="is-this-realistic-yes-heres-why" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Is This Realistic? YES! Here's Why:</strong></h2>
+<h2 id="1-precedents-many-msmes-use-this-approach" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>1. Precedents: Many MSMEs Use This Approach</strong><span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.pib.gov.in/PressReleasePage.aspx?PRID=1911485"><span class="group/trigger inline-flex min-w-0" data-state="closed"><span class="citation inline"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">pib.gov</span><span class="inline-block ml-xs mr-px !mt-0 ![vertical-align:unset]"><span class="opacity-50">+3</span></span></span></span></span></span></span></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Solar + PMEGP combination</strong> is common in agriculture processing units</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">MNRE actively promotes this for rural MSMEs</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Banks are familiar with this structure</p>
+</li>
+</ul>
+<h2 id="2-you-meet-all-eligibility-criteria" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>2. You Meet All Eligibility Criteria</strong></h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Criteria</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Requirement</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Your Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Location</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Rural area</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅ Vill. Anandpur urf Bandpur</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Land Ownership</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Own land for installation</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅ 400 gaj plot + agricultural land</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Category</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Farmer/rural entrepreneur</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅ OBC, agricultural land owner</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Business Type</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">MSME in agro-processing</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅ Cattle feed manufacturing</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Bank Account</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Active bank account</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">✅ Canara Bank, Katha (joint Kisan Loan)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="3-financial-viability-is-strong" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>3. Financial Viability Is Strong</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>DSCR of 8.57</strong> is exceptional (banks require minimum 1.5)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Working capital of 34%</strong> is industry standard</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Solar EMI of ₹6,400/month</strong> is easily covered by electricity savings (₹8,000-10,000/month)</p>
+</li>
+</ul>
+<h2 id="4-government-actively-promotes-this" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>4. Government Actively Promotes This</strong></h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>PM-KUSUM</strong> was launched specifically for farmers and rural entrepreneurs<span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.rear.org.in/schemes"><span class="group/trigger inline-flex min-w-0" data-state="closed"><span class="citation inline"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">rear.org</span><span class="inline-block ml-xs mr-px !mt-0 ![vertical-align:unset]"><span class="opacity-50">+2</span></span></span></span></span></span></span></p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>UP State Solar Policy</strong> incentivizes industrial solar installations<span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.india.gov.in/category/infrastructure-industries/subcategory/infrastructure/details/schemes-for-solar-energy-by-ministry-of-new-and-renewable-energy"><span class="group/trigger inline-flex min-w-0" data-state="closed"><span class="citation inline"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">india.gov</span><span class="inline-block ml-xs mr-px !mt-0 ![vertical-align:unset]"><span class="opacity-50">+2</span></span></span></span></span></span></span></p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>IREDA</strong> provides concessional loans for renewable energy projects<span class="citation inline" data-pplx-citation="" data-pplx-citation-url="https://www.ireda.in/solar-energy"><span class="inline-flex" data-state="closed"><span class="citation inline"><a class="inline-flex max-w-full min-w-0" href="https://www.ireda.in/solar-energy" target="_blank" rel="noopener"><span class="relative -mt-px max-w-full min-w-0 whitespace-nowrap -top-px font-sans text-base text-foreground select-none selection:bg-super/50 selection:text-foreground dark:selection:bg-super/10 dark:selection:text-super"><span class="text-3xs rounded-md group min-w-4 max-w-full cursor-pointer align-middle font-mono tabular-nums font-normal transition-colors duration-150 inline-flex items-center gap-0 py-[0.1875rem] leading-snug px-[0.3rem] [@media(hover:hover)]:hover:bg-subtle group-data-[state=open]/trigger:bg-subtle border-subtlest ring-subtlest divide-subtlest bg-quiet"><span class="inline-block relative !mt-0 ![vertical-align:unset] max-w-[25ch] overflow-hidden">ireda</span></span></span></a></span></span></span></p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="potential-challenges--solutions" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4"><strong>Potential Challenges &amp; Solutions</strong></h2>
+<h2 id="challenge-1-coordination-between-two-schemes" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Challenge 1: Coordination Between Two Schemes</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Solution:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Apply for PM-KUSUM <strong>first</strong> (takes 2-3 months for approval)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Once solar subsidy is approved, apply for PMEGP</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Mention in PMEGP DPR: "Solar power plant funded separately through PM-KUSUM scheme"</p>
+</li>
+</ul>
+<h2 id="challenge-2-ireda-loan-processing-time" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Challenge 2: IREDA Loan Processing Time</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Solution:</strong></p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">IREDA takes 45-60 days for loan</p>
+</li>
+</ul>
