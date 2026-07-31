@@ -5425,3 +5425,319 @@
 <div class="flex flex-col">&nbsp;</div>
 <div class="flex flex-col gap-md @3xl:gap-lg w-full pt-md @3xl:pt-lg">&nbsp;</div>
 </div>
+
+
+Excellent Idea! YES, You Can Get Solar Plant from Separate Government Schemes
+This is a brilliant strategy that will free up ₹11.5 lakh in your PMEGP loan for working capital. Let me show you the available schemes and how to structure this:
+
+Available Solar Power Plant Schemes (Separate from PMEGP)
+Option 1: PM-KUSUM Scheme (Best for Your Case)
+Scheme Details:
+
+Full Name: Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan
+
+Launched by: Ministry of New & Renewable Energy (MNRE)
+
+Subsidy: 30-60% of solar plant cost
+
+Eligibility: Farmers, rural entrepreneurs, MSMEs in agricultural/rural areas
+
+Your Eligibility: ✅ Yes (Vill. Anandpur urf Bandpur is rural, you own agricultural land)
+
+Component C (Grid-Connected Solar Plants for Rural Areas):
+
+Subsidy: 30% of project cost (general category) / 50% (NE & special states)
+
+Additional Support: 30% loan from banks at concessional rates
+
+Your Share: Only 40% of total cost!
+
+For Your 25 kW Solar Plant:
+
+Component	Amount (₹)
+Total Project Cost (25 kW @ ₹46,000/kW)	11,50,000
+MNRE Subsidy (30%)	3,45,000
+Bank Loan (30% concessional)	3,45,000
+Your Contribution (40%)	4,60,000
+Net Cost to You	4,60,000 (instead of ₹11.5 lakh)
+Savings	₹6,90,000 ✅
+Option 2: Grid-Connected Rooftop Solar Programme (MNRE)
+Scheme Details:
+
+Subsidy: 40% for first 3 kW + 20% for capacity above 3 kW (up to 10 kW)
+
+For capacities above 10 kW: 10% of project cost (as procurement-based incentive)
+
+Eligibility: Residential, commercial, industrial, institutional consumers
+
+Your Eligibility: ✅ Yes (industrial shed for cattle feed unit)
+
+For Your 25 kW Solar Plant:
+
+Component	Amount (₹)
+Total Project Cost	11,50,000
+Subsidy (10% for >10 kW capacity)	1,15,000
+Net Cost to You	10,35,000
+Savings	₹1,15,000
+This is less beneficial than PM-KUSUM, but still helpful.
+
+Option 3: UP State Solar Policy (Uttar Pradesh New & Renewable Energy Development Agency)
+Uttar Pradesh State Incentives:
+
+Capital Subsidy: 25-35% of project cost for industrial consumers
+
+Additional Benefits:
+
+Stamp duty exemption on land purchase for solar installation
+
+Electricity duty exemption for 5-7 years
+
+Fast-track approval process
+
+For Your 25 kW Solar Plant:
+
+Component	Amount (₹)
+Total Project Cost	11,50,000
+UP State Subsidy (25%)	2,87,500
+Net Cost to You	8,62,500
+Savings	₹2,87,500
+Option 4: IREDA Solar Loan (Indian Renewable Energy Development Agency)
+Scheme Details:
+
+Loan Type: 100% financing for solar projects
+
+Interest Rate: 8-9% (lower than regular bank loans)
+
+Tenure: 10-15 years (very long tenure)
+
+Moratorium: 6-12 months (no EMI during initial period)
+
+Collateral: Solar plant itself (no additional security needed)
+
+For Your 25 kW Solar Plant:
+
+Component	Amount (₹)
+Total Project Cost	11,50,000
+IREDA Loan (100%)	11,50,000
+Your Contribution	0 (but you repay with interest)
+Monthly EMI (10 years @ 8.5%)	₹14,200/month
+This doesn't reduce upfront cost, but spreads payment over 10 years at low interest.
+
+Option 5: Combination Approach (BEST STRATEGY)
+Stack Multiple Schemes for Maximum Benefit:
+
+Scheme	Subsidy (₹)	Your Cost (₹)
+PM-KUSUM (30% MNRE subsidy)	3,45,000	8,05,000
+UP State Solar Policy (25% additional)	2,87,500	5,17,500
+IREDA Loan (remaining amount)	5,17,500 (loan)	0 upfront
+Total Subsidy	6,32,500	
+Net Cost to You		0 upfront, repay ₹5.17L loan over 10 years
+Monthly EMI on IREDA Loan:
+
+Principal: ₹5,17,500
+
+Interest: 8.5% per annum
+
+Tenure: 10 years
+
+Monthly EMI: ₹6,400 (very manageable!)
+
+Revised Project Structure (Solar from Separate Scheme)
+PMEGP Project (Excluding Solar):
+Component	Amount (₹)	% of Total
+A. Fixed Assets (Excluding Solar)		
+1. Civil Works (Shed, Godown, Office - 2,500 sq.ft)	10,00,000	38.5%
+2. Plant & Machinery (1 MT/hour capacity)	12,00,000	46.2%
+3. Water Infrastructure	1,50,000	5.8%
+4. Quality Compliance	1,50,000	5.8%
+5. Office Equipment & Furniture	1,00,000	3.8%
+Subtotal Fixed Assets	26,00,000	100%
+B. Working Capital (3 months)		
+1. Raw Materials	10,80,000	80%
+2. Wages & Salaries	1,35,000	10%
+3. Utilities (grid power, since solar is separate)	1,00,000	7.4%
+4. Other Expenses	35,000	2.6%
+Subtotal Working Capital	13,50,000	100%
+Total PMEGP Project Cost	39,50,000	100%
+PMEGP Means of Finance (OBC Rural, 35% Subsidy):
+Source	Amount (₹)	%
+Your Contribution (5%)	1,97,500	5%
+PMEGP Subsidy (35%)	13,82,500	35%
+Bank Loan (60%)	23,70,000	60%
+Total	39,50,000	100%
+Separate Solar Project (PM-KUSUM + UP State + IREDA):
+Source	Amount (₹)
+Total Solar Cost (25 kW)	11,50,000
+MNRE Subsidy (30%)	-3,45,000
+UP State Subsidy (25%)	-2,87,500
+IREDA Loan (remaining)	5,17,500
+Your Upfront Cost	0
+IREDA Monthly EMI (10 years @ 8.5%)	₹6,400/month
+Combined Financial Viability
+Total Monthly Outflow:
+Component	Amount (₹/month)
+PMEGP Loan EMI (₹23.7L, 5 years, 11%)	43,800
+IREDA Solar Loan EMI (₹5.17L, 10 years, 8.5%)	6,400
+Total Monthly EMI	50,200
+Your Monthly Cash Flow (Year 1, 60% Capacity):
+Component	Amount (₹)
+Monthly Revenue (₹5.61 crore / 12)	46,80,000
+Monthly Operating Expenses (excluding EMIs)	42,50,000
+Monthly EBITDA	4,30,000
+Total Monthly EMI (PMEGP + IREDA)	50,200
+Monthly Surplus Cash Flow	3,79,800
+DSCR Calculation:
+
+DSCR
+=
+Monthly EBITDA
+Total Monthly EMI
+=
+4
+,
+30
+,
+000
+50
+,
+200
+=
+8.57
+DSCR= 
+Total Monthly EMI
+Monthly EBITDA
+​
+ = 
+50,200
+4,30,000
+​
+ =8.57
+This is EXCEPTIONAL! Even better than your original 7.02 DSCR!
+
+Benefits of This Approach
+1. Working Capital Increased from ₹3 Lakh to ₹13.5 Lakh ✅
+4.5x increase in operational runway
+
+Covers 3 months of raw materials, wages, and utilities
+
+No more production stoppages due to cash crunch
+
+2. PMEGP Loan Reduced from ₹28.8 Lakh to ₹23.7 Lakh ✅
+₹5.1 lakh lower loan burden
+
+Lower monthly EMI (₹43,800 vs ₹53,000 if solar was included)
+
+Better DSCR (8.57 vs 7.02)
+
+3. Solar Plant Cost Reduced from ₹11.5 Lakh to ₹0 Upfront ✅
+100% funded through subsidies (₹6.32L) + IREDA loan (₹5.17L)
+
+Only repay ₹6,400/month for 10 years
+
+Solar plant pays for itself through electricity savings
+
+4. Better Bank Approval Chances ✅
+Proper working capital (34% of project cost, industry standard is 25-35%)
+
+Lower loan-to-value ratio (60% instead of skewed structure)
+
+Higher DSCR (8.57 is exceptional)
+
+Shows sophisticated financial planning
+
+How to Apply for PM-KUSUM + UP State Solar Subsidy
+Step 1: Register on PM-KUSUM Portal
+Visit: https://mnre.gov.in/solar/current-status/
+
+Click on "PM-KUSUM" scheme
+
+Register as a beneficiary (farmer/rural entrepreneur category)
+
+Fill online application form
+
+Step 2: Submit Required Documents
+Document	Details
+Land Ownership Proof	Khasra Khatauni (you already have this)
+Aadhaar Card	Self-attested copy
+PAN Card	Self-attested copy
+Bank Account Details	Passbook copy (Canara Bank, Katha branch)
+Electricity Bill	Latest bill (or NOC if new connection)
+Project Proposal	Basic details of 25 kW solar plant for cattle feed unit
+Udyam Registration	MSME registration (you'll get this for PMEGP anyway)
+Step 3: Get Empaneled Vendor
+PM-KUSUM requires installation through MNRE-empaneled vendors
+
+List of vendors: https://irecda.org/ or MNRE website
+
+Get quotations from 2-3 vendors
+
+Select vendor and sign agreement
+
+Step 4: Installation & Commissioning
+Vendor installs 25 kW solar plant (timeline: 30-45 days)
+
+Inspection by DISCOM (local electricity distribution company)
+
+Net metering installation (if grid-connected)
+
+Commissioning certificate issued
+
+Step 5: Subsidy Disbursal
+Subsidy (₹6.32 lakh) directly credited to your bank account
+
+IREDA loan disbursed to vendor for remaining cost
+
+You start repaying IREDA loan after 6-month moratorium
+
+Timeline for Both Applications
+Month	PMEGP Application	Solar Application
+Month 1	Submit PMEGP application to Canara Bank	Apply for PM-KUSUM + UP State subsidy
+Month 2	Bank appraisal, site visit	Vendor selection, agreement signing
+Month 3	Loan sanction letter	Solar plant installation
+Month 4	Margin money deposit, loan disbursal	Commissioning, inspection
+Month 5	Start construction, machinery order	Subsidy disbursal, IREDA loan activation
+Month 6	Installation complete, trial production	Solar plant operational
+Month 7	Commercial production begins	Electricity savings start
+Is This Realistic? YES! Here's Why:
+1. Precedents: Many MSMEs Use This Approach
+Solar + PMEGP combination is common in agriculture processing units
+
+MNRE actively promotes this for rural MSMEs
+
+Banks are familiar with this structure
+
+2. You Meet All Eligibility Criteria
+Criteria	Requirement	Your Status
+Location	Rural area	✅ Vill. Anandpur urf Bandpur
+Land Ownership	Own land for installation	✅ 400 gaj plot + agricultural land
+Category	Farmer/rural entrepreneur	✅ OBC, agricultural land owner
+Business Type	MSME in agro-processing	✅ Cattle feed manufacturing
+Bank Account	Active bank account	✅ Canara Bank, Katha (joint Kisan Loan)
+3. Financial Viability Is Strong
+DSCR of 8.57 is exceptional (banks require minimum 1.5)
+
+Working capital of 34% is industry standard
+
+Solar EMI of ₹6,400/month is easily covered by electricity savings (₹8,000-10,000/month)
+
+4. Government Actively Promotes This
+PM-KUSUM was launched specifically for farmers and rural entrepreneurs
+
+UP State Solar Policy incentivizes industrial solar installations
+
+IREDA provides concessional loans for renewable energy projects
+
+Potential Challenges & Solutions
+Challenge 1: Coordination Between Two Schemes
+Solution:
+
+Apply for PM-KUSUM first (takes 2-3 months for approval)
+
+Once solar subsidy is approved, apply for PMEGP
+
+Mention in PMEGP DPR: "Solar power plant funded separately through PM-KUSUM scheme"
+
+Challenge 2: IREDA Loan Processing Time
+Solution:
+
+IREDA takes 45-60 days for loan
