@@ -2642,3 +2642,812 @@
 <div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
 <div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
 <div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+
+
+
+<div data-sfc-cp="" data-sfc-root="ep">
+<div class="pWvJNd" data-sfc-root="ep" data-complete="true" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">&nbsp;</div>
+<div class="flex flex-col">
+<div class="flex flex-col gap-4">
+<div>
+<div class="flow-root">
+<div class="flex flex-col flex-1 min-w-0 gap-5">
+<div class="flex flex-col flex-1 min-w-0">
+<div class="flex flex-col flex-1 min-w-0 gap-4">
+<div class="flex flex-col flex-1 min-w-0 gap-4">
+<div class="break-words min-w-0 flex-1">
+<div>
+<div class="prose dark:prose-invert inline leading-relaxed break-words min-w-0 [word-break:break-word] [&amp;_&gt;*:first-child]:mt-0 [&amp;_&gt;*:last-child]:mb-0" data-renderer="lm">
+<h2 id="pmegp-project-report-cattle-feed-manufacturing-uni" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4">PMEGP Project Report: Cattle Feed Manufacturing Unit with Solar Power System</h2>
+<h2 id="cover-page" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0"><strong>Cover Page</strong></h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Project Title:</strong>&nbsp;Shree Anandpur Cattle Feed Manufacturing Unit (Solar-Powered)<br /><strong>Proprietor:</strong>&nbsp;[Your Name]<br /><strong>Address:</strong>&nbsp;Vill. Anandpur urf Bandpur, Tehsil Khekra, Distt. Baghpat, Uttar Pradesh<br /><strong>Category:</strong>&nbsp;OBC (Special Category)<br /><strong>Area:</strong>&nbsp;Rural<br /><strong>Activity:</strong>&nbsp;Manufacturing<br /><strong>Total Project Cost:</strong>&nbsp;₹49,50,000<br /><strong>Bank Loan Required:</strong>&nbsp;₹29,70,000 (60%)<br /><strong>PMEGP Subsidy:</strong>&nbsp;₹17,32,500 (35%)<br /><strong>Own Contribution:</strong>&nbsp;₹2,47,500 (5%)<br /><strong>Date:</strong>&nbsp;July 31, 2026</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="1-executive-summary" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4">1. Executive Summary</h2>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">This project proposes establishing a&nbsp;<strong>solar-powered cattle feed manufacturing unit</strong>&nbsp;at Vill. Anandpur urf Bandpur, Tehsil Khekra, District Baghpat, Uttar Pradesh, on a self-owned 400 gaj (3,600 sq. ft.) plot. The unit will produce high-quality cattle feed using locally available raw materials (soybean, chana, tur, maize, wheat bran) to serve dairy farmers in Baghpat and surrounding districts.</p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">The key innovation is the&nbsp;<strong>integrated solar power system</strong>&nbsp;(25 kW capacity) with battery backup, ensuring 24/7 operational independence even during grid power failures exceeding 24 hours, preventing manpower salary wastage and production downtime. The plant will create direct employment for&nbsp;<strong>8 persons</strong>&nbsp;(4 skilled, 4 unskilled) and indirect employment for 15-20 raw material suppliers and transporters.</p>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">With PMEGP's&nbsp;<strong>35% margin money subsidy</strong>&nbsp;for OBC beneficiaries in rural areas, the project is financially viable with a&nbsp;<strong>Break-Even Point of 22 months</strong>&nbsp;and&nbsp;<strong>Debt Service Coverage Ratio (DSCR) of 1.85</strong>.</p>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="2-promoters-bio-data" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4">2. Promoter's Bio-Data</h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Particulars</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Name</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">[Your Full Name]</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Father's Name</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">[Father's Name]</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Address</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Vill. Anandpur urf Bandpur, Tehsil Khekra, Distt. Baghpat, UP</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Category</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">OBC (Jat Community - UP State List)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Area</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Rural (as per PMEGP classification)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Educational Qualification</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">[Your qualification - minimum 8th pass]</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Experience</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">[Years of experience in trading/procurement/IT management]</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Aadhaar Number</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">[Your Aadhaar]</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>PAN Number</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">[Your PAN]</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Mobile Number</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">[Your contact]</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Email</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">[Your email]</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="3-business-profile" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4">3. Business Profile</h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Particulars</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Name of the Unit</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Shree Anandpur Cattle Feed Manufacturing Unit</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Type of Activity</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Manufacturing (Cattle Feed Production)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Constitution</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Proprietorship</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Location</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Vill. Anandpur urf Bandpur, Tehsil Khekra, Distt. Baghpat, UP - 250611</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Land Ownership</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Self-owned (400 gaj / 3,600 sq. ft. / 334.4 sq. m.)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Power Source</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Grid electricity + 25 kW Solar Power System with Battery Backup</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Water Source</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Borewell with Solar Water Pump (2 HP)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="4-product-description--manufacturing-process" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4">4. Product Description &amp; Manufacturing Process</h2>
+<h2 id="41-products-to-be-manufactured" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">4.1 Products to be Manufactured</h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Product</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Capacity (per day)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Capacity (per annum)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Cattle Feed (50 kg bags)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,000 kg (40 bags)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">6,00,000 kg (12,000 bags)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Cattle Feed (25 kg bags)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">500 kg (20 bags)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000 kg (6,000 bags)</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,500 kg/day</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">7,50,000 kg/year</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="42-raw-materials-required-annual" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">4.2 Raw Materials Required (Annual)</h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Raw Material</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Quantity (MT/year)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Cost (₹/MT)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Total Cost (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Maize</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">180</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">18,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">32,40,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Wheat Bran</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">150</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">14,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">21,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Soybean Meal</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">120</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">32,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">38,40,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Chana/Tur (broken)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">90</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">45,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">40,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Mineral Mixture</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">30</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">25,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">7,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Salt</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">15</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">8,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,20,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Molasses</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">45</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">12,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5,40,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>630 MT</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">-</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>1,46,40,000</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="43-manufacturing-process" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">4.3 Manufacturing Process</h2>
+<ol class="marker:text-quiet list-decimal pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Raw Material Procurement</strong>: Purchase from local mandis and farmers in Baghpat, Muzaffarnagar, and Meerut</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Cleaning &amp; Grading</strong>: Remove impurities using vibrating sieve</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Grinding</strong>: Pulverize ingredients to 2-3 mm particle size using hammer mill</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Mixing</strong>: Blend all ingredients in 500 kg capacity ribbon mixer for 10-15 minutes</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Conditioning</strong>: Add molasses and steam (optional) for better binding</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Pelletizing</strong>&nbsp;(optional): Convert to pellets using 10 HP pellet mill</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Cooling &amp; Drying</strong>: Reduce temperature to ambient level</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Weighing &amp; Packing</strong>: Pack in 25 kg and 50 kg HDPE bags with branding</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Storage</strong>: Store in dry, ventilated godown area</p>
+</li>
+</ol>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="5-market-analysis" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4">5. Market Analysis</h2>
+<h2 id="51-target-market" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">5.1 Target Market</h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Primary Customers</strong>: Dairy farmers in Baghpat, Muzaffarnagar, Meerut, and Delhi-NCR</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Secondary Customers</strong>: Cattle feed retailers, cooperative societies, gaushalas</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Market Size</strong>: 50,000+ cattle in 20 km radius; daily demand of 1,50,000 kg cattle feed</p>
+</li>
+</ul>
+<h2 id="52-demand-analysis" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">5.2 Demand Analysis</h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Baghpat district has 1.2 lakh cattle population with 60% being milch animals</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Average daily feed requirement: 3-4 kg per animal</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Current supply gap: 40% met through unbranded/unorganized local mixing</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Growing demand due to increasing milk prices and organized dairy farming</p>
+</li>
+</ul>
+<h2 id="53-competition" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">5.3 Competition</h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Competitor</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Location</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Capacity</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Price (₹/50kg)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Amul Cattle Feed</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Muzaffarnagar</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">50 MT/day</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,450</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Local Mixers</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Khekra, Baghpat</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2-5 MT/day</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,100-1,200</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Our Unit</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Anandpur</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>2.5 MT/day</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>1,250</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="54-marketing-strategy" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">5.4 Marketing Strategy</h2>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Direct Sales</strong>: 60% to dairy farmers (bulk orders)</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Retailers</strong>: 30% through 15-20 feed shops in Khekra, Baghpat, Loni</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Institutional Sales</strong>: 10% to gaushalas and government dairy programs</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Promotion</strong>: Free samples, farmer training programs, WhatsApp marketing</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="6-project-cost-breakdown" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4">6. Project Cost Breakdown</h2>
+<h2 id="61-fixed-capital-land-building-plant--machinery" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">6.1 Fixed Capital (Land, Building, Plant &amp; Machinery)</h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">S.No.</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Particulars</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>A. Land Development</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Land Levelling &amp; Fencing (400 gaj)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Boundary Wall (4 sides, 8 ft height)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>B. Building &amp; Civil Works</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Shed Construction (2,000 sq. ft. @ ₹800/sq. ft.)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">16,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Office &amp; Store Room (500 sq. ft.)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Electrical Installation &amp; Wiring</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">6.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Water Connection &amp; Plumbing</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">7.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Borewell with Solar Water Pump (2 HP)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>C. Plant &amp; Machinery</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">8.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Hammer Mill Grinder (10 HP)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,75,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">9.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Ribbon Mixer (500 kg capacity)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,25,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">10.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Pellet Mill (10 HP, optional)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,80,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">11.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Weighing Scale (Digital, 100 kg)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">25,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">12.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Bag Sealing Machine</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">15,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">13.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Conveyor Belt System</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">14.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Raw Material Storage Bins (4 units)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,20,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">15.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Finished Goods Storage Racks</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">80,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>D. Solar Power System (25 kW with Battery Backup)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">16.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Solar Panels (25 kW, 50 panels &times; 500W)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">12,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">17.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Solar Inverter (25 kW, 3-phase)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">18.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Battery Bank (48V, 400 Ah, 20 batteries)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">6,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">19.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Solar Mounting Structure &amp; Cables</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">20.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Installation &amp; Commissioning</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>E. Other Fixed Assets</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">21.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Furniture &amp; Fixtures</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">22.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Computer &amp; Printer</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">23.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Vehicle (Second-hand Tata Ace)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">24.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Weighbridge (10 MT capacity)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">25.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Fire Safety Equipment</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">26.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Tools &amp; Tackles</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">75,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">27.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Contingency (5% of fixed capital)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,98,750</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal: Fixed Capital</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>47,78,750</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="62-working-capital-first-3-months" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">6.2 Working Capital (First 3 Months)</h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">S.No.</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Particulars</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Raw Materials (3 months stock: ₹1,46.4L &divide; 4)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">36,60,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Wages &amp; Salaries (3 months: ₹1,80,000 &times; 3)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5,40,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Electricity &amp; Utilities (3 months)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">45,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Packaging Materials (bags, labels - 3 months)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Marketing &amp; Transportation (3 months)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">6.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Insurance &amp; Miscellaneous (3 months)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,50,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">7.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Maintenance &amp; Repairs (3 months)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">75,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">8.</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Contingency (5% of working capital)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,55,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Subtotal: Working Capital</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>54,75,000</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2 id="63-total-project-cost" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">6.3 Total Project Cost</h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Component</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Fixed Capital</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">47,78,750</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Working Capital</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">54,75,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Project Cost</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>1,02,53,750</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="7-means-of-finance" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4">7. Means of Finance</h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Source</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Amount (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Percentage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Promoter's Contribution (Margin Money)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5,12,688</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">5%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>PMEGP Subsidy (OBC - Rural)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">35,88,813</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">35%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Bank Loan (Term Loan + Working Capital)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">61,52,250</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">60%</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Project Cost</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>1,02,53,750</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>100%</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top"><strong>Note:</strong>&nbsp;As per PMEGP guidelines for OBC (Special Category) in rural areas:</p>
+<ul class="marker:text-quiet list-disc pl-8">
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Subsidy: 35% of project cost</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Own contribution: 5% of project cost</p>
+</li>
+<li class="py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0">
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top">Bank loan: 60% of project cost</p>
+</li>
+</ul>
+<hr class="bg-quiet h-px border-0" />
+<h2 id="8-financial-projections-5-years" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4">8. Financial Projections (5 Years)</h2>
+<h2 id="81-projected-profit--loss-account" class="font-semibold leading-tight text-pretty mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0">8.1 Projected Profit &amp; Loss Account</h2>
+<div class="group relative my-[1em]">
+<div class="sticky top-0 z-20 h-0">&nbsp;</div>
+<div class="w-full overflow-auto scrollbar-subtle rounded-lg border md:max-w-[90vw] border-subtlest ring-subtlest divide-subtlest bg-raised">
+<table class="[&amp;_tr:last-child_td]:border-b-0 my-0 w-full table-auto border-separate border-spacing-0 text-sm font-sans rounded-lg [&amp;_tr:last-child_td:first-child]:rounded-bl-lg [&amp;_tr:last-child_td:last-child]:rounded-br-lg">
+<thead>
+<tr>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Particulars</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Year 1 (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Year 2 (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Year 3 (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Year 4 (₹)</th>
+<th class="border-subtlest p-sm min-w-[48px] break-normal border-b text-left align-bottom border-r last:border-r-0 font-bold bg-subtle first:border-radius-tl-lg last:border-radius-tr-lg" scope="col">Year 5 (₹)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Sales Revenue</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Cattle Feed (7.5 lakh kg @ ₹25/kg avg.)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,87,50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,25,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,62,50,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,81,25,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,00,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Total Sales (A)</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>1,87,50,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>2,25,00,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>2,62,50,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>2,81,25,000</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>3,00,00,000</strong></td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0"><strong>Cost of Production</strong></td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Raw Materials</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,46,40,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">1,75,68,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,04,96,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,19,72,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">2,34,00,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Packaging Materials</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">18,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">21,60,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">25,20,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">27,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">28,80,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Wages &amp; Salaries</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">21,60,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">23,76,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">26,13,600</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">28,74,960</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">31,62,456</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Electricity (Grid + Solar maintenance)</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">6,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">6,60,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">7,26,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">7,98,600</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">8,78,460</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Fuel &amp; Transport</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">12,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">14,40,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">16,80,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">18,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">19,20,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Repairs &amp; Maintenance</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,30,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,63,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,99,300</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">4,39,230</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Marketing &amp; Advertising</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">6,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">7,20,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">8,40,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">9,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">9,60,000</td>
+</tr>
+<tr>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">Insurance &amp; Miscellaneous</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,00,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,30,000</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">3,63,</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+<td class="border-subtlest p-sm min-w-[48px] break-normal border-b border-r last:border-r-0">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sticky z-10 h-0">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>&nbsp;</div>
+<div class="flex items-center justify-between">&nbsp;</div>
+<div class="mt-md">&nbsp;</div>
+</div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
