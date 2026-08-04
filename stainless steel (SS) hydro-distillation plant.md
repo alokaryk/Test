@@ -410,3 +410,87 @@ Process: Hydro-Distilled / Steam-Distilled
 </div>
 </div>
 </div>
+
+
+<div class="tonYlb" data-tr-rsts="false" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 24px 0px 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">
+<div data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">
+<div class="" data-streaming-container="" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">
+<div data-processed="true" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">
+<div class="CKgc1d" data-scope-id="turn" data-sfc-root="ep" data-processed="true" data-complete="true" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">
+<div data-subtree="aimc" data-sfc-cp="" data-sfc-root="c" data-processed="true" data-complete="true" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">
+<div id="ow7" class="Zkbeff" dir="ltr" data-sfc-root="ep" data-wiz-uids="psBVpb_2" data-ctx-provider="[[[&quot;tsCKD&quot;,&quot;3&quot;],[&quot;dMtGDc&quot;,&quot;[false]&quot;]]]" data-ved="2ahUKEwjEud3X2IaWAxVzjOEIHZb_AyoQ2O0OegYIAAgCEAA" data-hveid="CAAIAhAA" data-processed="true" data-complete="true" data-sfc-inited="2" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">
+<div class="pWvJNd" data-sfc-root="ep" data-processed="true" data-complete="true" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">
+<div class="mZJni Dn7Fzd" dir="ltr" data-container-id="main-col" data-xid="VpUvz" data-sfc-root="ep" data-ctx-provider="[[[&quot;dMtGDc&quot;,&quot;[false]&quot;]]]" data-ved="2ahUKEwjEud3X2IaWAxVzjOEIHZb_AyoQ3KYQegYIAAgCEAE" data-processed="true" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 14px; font-weight: 400; margin: 0px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">
+<div class="n6owBd awi2gc" data-sfc-cp="" data-sfc-root="ep" data-hveid="CAAICxAA" data-complete="true" data-processed="true" data-copy-service-computed-style="font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 16px; font-weight: 400; margin: 12px 0px 16px; text-decoration: none; border-bottom: 0px rgb(10, 10, 10);">
+<div data-sfc-cp="" data-sfc-root="ep">It is a completely valid concern to worry about extracting expensive oil without a guaranteed buyer. Pure rose oil and chamomile oil require massive amounts of raw material, and you cannot afford to have your capital blocked.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">To get an advance payment (token money) and a guaranteed contract before you start extraction, you must shift your approach from a "raw farmer" to an <span data-sfc-cp="" data-sfc-root="ep">"Industrial Contract Manufacturer."<!--TgQPHd|||[]--></span> Established B2B buyers like exporters, cosmetic brands, and fragrance houses routinely work this way.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Here is the exact step-by-step strategy to secure advance orders before your harvest begins.<!--TgQPHd|||[]--></div>
+<hr data-sfc-root="ep" data-sfc-pl="|||[]" />
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 1: Create a "Pre-Harvest Sample" (The Trust Builder)<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">No professional buyer will give you token money without testing your quality first. Since your plant is new, you must run a small trial batch during the early flush.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Action:<!--TgQPHd|||[]--></span> Extract a tiny amount&mdash;just 10 to 20 grams of Rose Otto or Chamomile Oil.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Purpose:<!--TgQPHd|||[]--></span> Divide this into small 1 ml to 2 ml sample vials. This is your "business card." You will send these samples to buyers so their labs can test the aroma profile and purity.<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 2: Target the Right Corporate Buyers<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">Do not look for local retail shops. You need <span data-sfc-cp="" data-sfc-root="ep">Essential Oil Destillation Contract Buyers<!--TgQPHd|||[]--></span> or <span data-sfc-cp="" data-sfc-root="ep">Exporters<!--TgQPHd|||[]--></span>.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Where to find them:<!--TgQPHd|||[]--></span> Visit exporters in nearby <span data-sfc-cp="" data-sfc-root="ep">Ghaziabad, Noida, and Saharanpur<!--TgQPHd|||[]--></span>, or take a trip to the fragrance hub of <span data-sfc-cp="" data-sfc-root="ep">Kannauj<!--TgQPHd|||[]--></span>.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Pitch:<!--TgQPHd|||[]--></span> Approach them and say: <em data-sfc-root="ep">"I have a 10-bigha dedicated organic plantation in Baghpat with an on-site Stainless Steel distillation plant. I am booking my distillation slots for the upcoming April flush. Here is my sample."<!--TgQPHd|||[]--></em><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 3: Offer a "Forward Contract" with Token Money<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">Once a buyer approves your sample, you negotiate a formal, legally binding <span data-sfc-cp="" data-sfc-root="ep">Purchase Order (PO)<!--TgQPHd|||[]--></span> or <span data-sfc-cp="" data-sfc-root="ep">Forward Contract<!--TgQPHd|||[]--></span>.<span data-sfc-root="ep"> [1, 2, 3] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Standard Terms:<!--TgQPHd|||[]--></span> In the essential oil industry, standard advance terms for contracted farming/distillation are <span data-sfc-cp="" data-sfc-root="ep">20% to 30% Token Money Advance<!--TgQPHd|||[]--></span> paid before extraction begins. The remaining 70% to 80% is paid upon delivery and final lab clearance.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">The Guarantee:<!--TgQPHd|||[]--></span> The contract explicitly states the fixed price per kg, the required quantity, and the delivery date. If they back out, they lose their token money. If you fail to deliver, you owe penalties. This legally protects both sides.<span data-sfc-root="ep"> [4] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 4: Secure a Tripartite Agreement (Alternative Option)<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">If you are dealing with large corporate ayurvedic or cosmetic brands (like Khadi suppliers or organic startups), ask for a <span data-sfc-cp="" data-sfc-root="ep">Tripartite Agreement<!--TgQPHd|||[]--></span>.<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep">This is a contract between <span data-sfc-cp="" data-sfc-root="ep">You (The Distiller), The Buyer (The Brand), and a Bank or Agriculture Board<!--TgQPHd|||[]--></span>.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">The buyer deposits the money into an escrow account or issues a Letter of Credit (LC). Once your lab reports clear the purity test post-extraction, the bank automatically releases the funds to you. This removes 100% of your risk.<span data-sfc-root="ep"> [5] <!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">Step 5: Leverage Government Bodies for Credibility<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">As a new player from Baghpat, buyers might hesitate to trust you initially. You can bridge this trust gap using government backing:<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ul>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">FFDC Kannauj (Fragrance and Flavour Development Centre):<!--TgQPHd|||[]--></span> Visit them. They help bridge the gap between farmers and corporate buyers. They can list your upcoming crop availability on their portals.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">NMPB (National Medicinal Plants Board):<!--TgQPHd|||[]--></span> They actively promote buy-back contracts between medicinal/aromatic crop farmers and pharmaceutical companies.<!--TgQPHd|||[]--></li>
+</ul>
+<!--TgQPHd|||[]--></div>
+<h2 data-sfc-cp="" data-sfc-root="ep">Summary of Your Action Plan<!--TgQPHd|||[]--></h2>
+<div data-sfc-cp="" data-sfc-root="ep">
+<div>&nbsp;</div>
+<ol>
+<li data-sfc-cp="" data-sfc-root="ep"><span data-sfc-cp="" data-sfc-root="ep">Do not distill in bulk without a contract.<!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Run your machine for just one day to make <span data-sfc-cp="" data-sfc-root="ep">high-quality samples<!--TgQPHd|||[]--></span>.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Send samples to 10&ndash;15 exporters in <span data-sfc-cp="" data-sfc-root="ep">Delhi-NCR and Kannauj<!--TgQPHd|||[]--></span>.<!--TgQPHd|||[]--></li>
+<li data-sfc-cp="" data-sfc-root="ep">Lock in a <span data-sfc-cp="" data-sfc-root="ep">30% advance token payment<!--TgQPHd|||[]--></span> via a signed Purchase Order before processing the remaining harvest.<!--TgQPHd|||[]--></li>
+</ol>
+<!--TgQPHd|||[]--></div>
+<div data-sfc-cp="" data-sfc-root="ep">Would you like me to draft a simple <span data-sfc-cp="" data-sfc-root="ep">sample template for a B2B Quotation/Offer Letter<!--TgQPHd|||[]--></span> that you can send to these exporters along with your oil samples?<!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+<div data-sfc-root="ep"><!--TgQPHd|||[]--></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
